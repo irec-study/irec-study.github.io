@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+## Institute for the Research of Early Civilizations (IREC)
+## 고대문명연구소
 
-You can use the [editor on GitHub](https://github.com/irec-study/irec-study.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 설립목적 및 배경
 
-### Markdown
+#### ▣ 설립목적
+▶ 인류 문명의 기원과 발전에 대한 순수 학문적 탐구
+▶ 초기 국가, 도시, 문자, 종교, 사회경제, 문화, 전쟁 등 기초 연구 추구
+▶ 메소포타미아, 이집트, 인도, 중국, 그리스/로마, 마야, 잉카 등이 연구 대상
+▶ 여러 지역 문명들에 대한 비교적 관점 연구 지향
+▶ 문학, 사학, 철학, 미술사, 고고학, 인류학을 관통하는 학제간 연구 추구
+▶ 디지털 역사학 방법론 적극 활용
+▶ 한국이나 동아시아를 넘어서 세계적 보편성을 지니는 학문 추구
+▶ 소외된 학문 분야의 연구 인프라 구축과 저변 확대
+▶ 다양한 고대 문명 연구 성과의 대중화  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#### ▣ 설립배경
+▶ 국내의 현실
+  - 국내의 세계 고대문명 연구 저조
+  - 중국을 제외한 관련 연구 기관 전무
+  - 최근 해외 유수 대학에서 메소포타미아, 이집트, 인도 문명 등 연구로 박사학위 취득한 소장 연구자 늘어남
+  - 이러한 신진 연구자들이 국내 대학에서 강의조차 맡기 어려운 현실
+▶ 세계화
+  - 선진국에서는 주요 학문 분야이지만 국내에서는 소외 분야
+  - 세계화 추세에 맞는 학문의 균형 발전이라는 시대적 요구
+  - 세계적 수준의 인문학 연구소: 국내 고대문명 비교연구의 메카
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 일정 
+#### 월례발표회 (2020년)
 
-1. Numbered
-2. List
+▷1월 30일(목) 오후 3시, 석주선기념박물관 회의실(이하 시간 장소 동일)
+심재훈(단국대), 중국 고대 지역국가의 발전: 진의 봉건에서 문공의 패업까지
 
-**Bold** and _Italic_ and `Code` text
+▷2020년 2월 28일
+김용준(한국문화재재단), 아리안 논쟁(Aryan debate)과 인도 고대사
 
-[Link](url) and ![Image](src)
-```
+▷3월 27일
+유성환(서울대), 이집트 아마르나 시대 예술에 투영된 시간관
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+▷4월 24일
+김광림(네이버, 단국대), '고고학에서 인공지능, 머신러닝과 딥러닝' 컨퍼런스(2019년 로마)로 살펴보는 유럽의 연구 동향 분석 
 
-### Jekyll Themes
+▷5월 29일
+곽민수(Durham대학), 고고학 자료를 통해서 본 투트모스 3세의 과거 인식과 개인정체성
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/irec-study/irec-study.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+▷6월 26일
+박성진(단국대), 실크로드 이전의 실크로드: 라피스 라줄리로드
 
-### Support or Contact
+▷8월 27일
+강후구(서울장신대), 예루살렘 고고학 연구: 구약시대를 중심으로
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+▷9월 24일
+반기현(중앙대), 원수정기 동방 속주에서의 군대 주둔과 도시화
+
+▷10월 29일
+김석진(단국대), 청화간 󰡔계년󰡕의 사학사적 의의
+
+▷11월 29일
+이광수(부산외국어대), 고대 힌두교에서 지존위 쉬바와 우빠니샤드 이데올로기
+
+#### 국제학술대회
+매년 1회씩 고대문명 연구 석학들을 초청하는 학술대회를 개최할 것이다. 2019년 11월 28일 동양학연구원 주관으로 개최한 “요새화와 도시화: 고대 문명 사이의 첫 번째 대화”가 그 모델이 될 것이다.
+
+▷초기 문자와 고대 국가: 고대 문명 사이의 두 번째 대화 
+  -일시: 2020년 11월 혹은 12월
+  -장소: 죽전캠퍼스 국제관 102호
+  -예상 발표자: Wang Haicheng (University of Washington), John Baines (University of Oxford), Piotr Michalowski (University of Michigan), Edward L. Shaughnessy (University of Chicago) 何景成(吉林大學), 강후구(서울장신대), 박재복(경동대) 등  
+
+▷고대 국가의 경제적 토대: 고대 문명 사이의 세 번째 대화 
+  -일시: 2021년 11월 혹은 12월
+  -장소: 죽전캠퍼스 국제관 102호
+  -예상 발표자: Roderick B. Campbell (New York University), Nicholas Postage (University of Cambridge), Patricia A. McAnany (University of North Carolina), 韓巍(北京大學), 山田重郎(筑波大学), 김용준(한국문화재단), 유성환(서울대) 등 
+
+### 연구
+신생 연구소이니만큼 학술지는 시기상조; 매년 국제학술대회 발표 논문 중심으로 단행본 발간 계획
+
+▷ 요새화와 도시화: 고대 문명 사이의 첫 번째 대화
+-2020년 4월 '동양학' 특집호로 발간 후 10~11월 고고학 전문 출판사 “사회평론 아카데미” 출간 예정
+  * 노먼 요피(Norman Yoffee), ｢고대 도시들에 대한 새로운 시각｣
+  * 아키라 쓰네키(Tsuneki Akira), ｢농경사회에서 도시문명으로: 고대 서아시아의 사례｣
+  * 김용준, ｢고대 인도 1, 2차 도시화 시대의 도성 비교｣
+  * 심재훈, ｢이리두 중국 고대국가 기원론의 딜레마｣
+  * 곽민수, ｢신왕국 이집트의 누비아 식민화와 신전 도시｣
+  * 반기현, ｢두라-유로포스: 로마와 페르시아 접경의 도시｣
+  * 김광림, ｢데이터역사과학: 고대 문명의 보편 질문을 향한 관문｣
+
+▷ '초기 문자와 고대 국가: 고대 문명 사이의 두 번째 대화, 고대 국가의 경제적 토대: 고대 문명 사이의 세 번째 대화 지속적으로 출간 계획
