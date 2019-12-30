@@ -1,6 +1,3 @@
-## Institute for the Research of Early Civilizations (IREC)
-## 고대문명연구소
-
 
 ### 설립목적 및 배경
 
