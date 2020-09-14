@@ -1,2 +1,196 @@
-theme: jekyll-theme-cayman
-title: IREC 고대문명연구소
+# Site
+name: '고대문명연구소'
+description: 'The Institute for Research on Early Civilizations (IREC)'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/icon'
+baseurl: ''
+#disqus: 'demowebsite'
+email: 'irec.study@gmail.com'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+#  - jekyll-seo-tag
+  
+sections:
+    1:
+      name: "심재훈의 &#10092;책의 향기, 고대의 향연&#10093;"
+      path: "책의향기-고대의향연"
+      desc: "고대사 위주로 좋은 역사책을 소개하고, 중국 고대문명 연구의 흥미로운 에피소드도 전하려고 합니다"
+    2:
+      name: "곽민수의 &#10092;이집트 기행&#10093;"
+      path: ""
+      desc: "고대 이집트의 세계로 안내합니다"
+    
+authors:
+
+    kang-hoogoo:
+      name:     kang
+      name-ko:  "강후구"
+      name-en:  "KANG, Hoo-Goo"
+      #role:
+      title:    "서울장신대학교 교양학과 부교수"
+      education:
+        - "이스라엘 예루살렘 히브리대학교 고고학과 (박사)"
+        - "미국 듀북신학교 신학과 (석사)"
+        - "장로회신학대학교, 신학대학원 (석사, 학사)"
+      interest: ["이스라엘 고고학", "성서고고학", "토기 형태학", "철기 시대"]
+      avatar: /assets/images/people/kang.jpg
+      bio: "이스라엘 지역 고고학(토기 형태학)을 전공하였고, 현장 발굴을 통한 결과물을 바탕으로 고대 이스라엘 역사 재구성에 관심이 있습니다."
+
+    kwack-minsoo:
+      name:     kwack
+      name-ko:  "곽민수"
+      name-en:  "KWACK, Min-Soo"
+      title:    "이집트 고고학자"
+      education:
+        - "영국 더럼대학교 고고학과 (박사 수료)"
+        - "영국 옥스퍼드대학교 이집트학 (석사)"
+        - "영국 런던대학교 고고학 (석사)"
+        - "한양대학교 국제학 (석사)"
+        - "한양대학교 문화인류학 (학사)"
+      interest: []
+      avatar: /assets/images/people/kwack.jpg
+      bio: "고대 이집트의 의례 경관와 사회문화 변동, 그리고 개인 행위수행자와 물질문화의 관계에 관심을 갖고 있습니다."
+
+    ghim-gwanglim:
+      name:     ghim
+      name-ko:  "김광림"
+      name-en:  "GHIM, Gwang-lim"
+      #role:
+      title:    "단국대학교 사학과 석박사통합과정 / 네이버 머신러닝엔지니어"
+      education:
+        - "KAIST 전산학과 (학사)"
+      interest: ["중국고대사", "선진시대", "데이터역사학"]
+      #site:
+      avatar: /assets/images/people/ghim.jpg
+      bio: "데이터로 고대사를 읽고자 합니다. 숨겨진 역사의 패턴을 찾아 정량적으로 분석할 수 있다고 믿습니다."
+      sns:
+        twitter: https://twitter.com/glghim
+      #  facebook:
+      #  instagram:
+
+    kim-ari:
+      name:     arkim
+      name-ko:  "김아리"
+      name-en:  "KIM, A-Ri"
+      title:    "건국대학교 중동연구소 연구원 / 고대문헌학자"
+      education:
+        - "프랑스 판테옹-소르본, 파리 1대학 고대근동학 (박사, 석사)"
+        - "프랑스 파리 카톨릭대학교 고대근동언어학(학사)"
+        - "홍익대학교 역사교육학과(학사)"
+      interest: ["신화", "법제사", "고대근동", "고전"]
+      avatar: /assets/images/people/arkim.jpg
+      bio: "고대근동의 법제사로 박사학위를 받았습니다. 지금은 상속법 연구를 진행하고 있습니다. 법제사와 고대사에 관심이 많습니다."
+
+    kim-yongha:
+      name:     yhkim
+      name-ko:  "김용하"
+      name-en:  "KIM, Yong-ha"
+      #role:
+      title:    "미국 컬럼비아대학교 동아시아 언어문화학과 박사 후보생"
+      education:
+        - "미국 컬럼비아대학교 동아시아 언어문화학과 (박사 수료)"
+        - "고려대학교 사학과 (석사, 학사)"
+      interest: ["중국 고대사", "세계제국사", "고고학"]
+      #site:
+      avatar: /assets/images/people/yhkim.jpg
+      bio: "전국시대의 분열과 진한제국의 통일, 그리고 세계의 다양한 고대제국들에 관심 있습니다."
+      #sns:
+
+    park-seongjin:
+      name:     sjpark
+      name-ko:  "박성진"
+      name-en:  "PARK, Seong-Jin"
+      #role:
+      title:    "단국대학교 동양학연구원 연구교수"
+      education:
+        - "프랑스 파리 10-낭테르대학교 (박사)"
+        - "프랑스 국립자연사박물관(MNHN) 고인류학연구소 DEA 졸업"
+        - "단국대학교 사학과 (석사, 학사)"
+      interest: ["고대 기술체계", "문명 간 교역", "생물고고학", "고고학사"]
+      #site:
+      avatar: /assets/images/people/sjpark.jpg
+      bio: "선사시대 석기제작기술체계에 관한 연구로 박사학위를 취득했고 현재 고대 문명 간 자원 교역시스템에 관심을 두고 연구하고 있습니다."
+      #sns:
+
+    ban-keehyun:
+      name:     ban
+      name-ko:  "반기현"
+      name-en:  "BAN, Kee-Hyun"
+      #role:
+      title:    "육군사관학교 군사사학과 교수"
+      education:
+        - "영국 킹스칼리지런던 서양고전학 (박사)"
+        - "고려대학교 서양사학 (석사)"
+        - "홍익대학교 영어영문학 (학사)"
+      interest: ["서양고대사", "로마사"]
+      #site:
+      avatar: /assets/images/people/ban.jpg
+      bio: "로마제국의 군대와 군사전략에 대해 연구하고 가르치고 있습니다."
+      #sns:
+
+    shim-jaehoon:
+      name:     shim
+      name-ko:  "심재훈"
+      name-en:  "SHIM, Jae-hoon"
+      role:     "연구소장"
+      title:    "단국대학교 사학과 교수 / 고대문명연구소 소장"
+      education:
+        - "미국 시카고대학교 동아시아언어문명학과 (박사)"
+        - "단국대학교 사학과 (석사, 학사)"
+      interest: ["고대중국", "출토문헌", "고대문명", "고고학"]
+      #site:
+      avatar: /assets/images/people/shim.jpg
+      bio: "고대 중국을 조금 알고 나니 그에 버금가는 다른 문명의 상황이 궁금해집니다. 새로운 출토자료를 활용하여 중국 고대사를 주로 연구하고, 동아시아 사학사, 기억사, 고대문명 비교 연구에 관심이 있습니다. <a href='https://dankook.academia.edu/JaehoonShim'>academia.edu/JaehoonShim</a>"
+      sns:
+      #  twitter:
+        facebook: https://www.facebook.com/jaehoon.shim.399
+      #  instagram:
+
+    yoo-sunghwan:
+      name:     yoo
+      name-ko:  "유성환"
+      name-en:  "YOO, Sung Hwan"
+      #role:
+      title:    "이집트학자 / 서울대학교 인문학연구소 선임연구원"
+      education:
+        - "미국 브라운대학교 이집트학과 (박사)"
+      interest: ["이집트학", "문헌학"]
+      #site:
+      avatar: /assets/images/people/yoo.jpg
+      bio: "고대 이집트 문헌의 한국어 번역, 이집트 신화 및 신화의 비교연구에 관심이 있습니다."
+      #sns:
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

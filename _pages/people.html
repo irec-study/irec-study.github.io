@@ -1,0 +1,53 @@
+---
+title: "People"
+layout: default
+permalink: "/people.html"
+---
+
+<div class="container">
+<h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
+    <div class="row gap-y listrecent listrecent listauthor">
+    {% for author in site.authors %}
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+
+            <div class="col-md-3 mb-4 mb-md-0">
+                  <a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">
+                  <img alt="{{ author[1].name }}" src="{{ author[1].avatar }}" class="rounded-circle" height="80" width="80">
+                  </a>
+            </div>
+
+            <div class="col-md-9">
+                <h4 class="text-dark mb-1"><a class="text-dark" href="{{site.baseurl}}/author-{{ author[1].name | slugify }}"> {{ author[1].name-ko }} </a></h4>
+                <div class="text-dark text-light mb-0">{{ author[1].title }}</div>
+                <div>
+                  <a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">
+                      <small class="d-inline-block mt-1 mb-3 font-weight-normal">View Posts</small>
+                  </a>&nbsp;
+                  {% if author[1].sns.twitter %}
+                      <a target="_blank" href="{{ author[1].sns.twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>&nbsp;
+                  {% endif %}
+                  {% if author[1].sns.facebook %}
+                      <a target="_blank" href="{{ author[1].sns.facebook }}"><i class="fab fa-facebook-square text-muted" aria-hidden="true"></i></a>&nbsp;
+                  {% endif %}
+                </div>
+                <div class="mb-1"><p>{{ author[1].bio }}</p></div>
+                <div class="my-3 excerpt">
+                {% for education in author[1].education %}
+                  <div class="ml-1"><span>&#8728;</span> {{ education }}</div>
+                {% endfor %}
+                </div>
+                <div>
+                {% for interest in author[1].interest %}
+                  <span class="badge badge-success">{{ interest }}</span>
+                {% endfor %}
+                </div>
+            </div>
+
+            </div>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+</div>
