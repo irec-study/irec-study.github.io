@@ -12,6 +12,9 @@
                   {% if site.authors[name].sns.facebook %}
                       <a target="_blank" href="{{ site.authors[name].sns.facebook }}"><i class="fab fa-facebook-square text-muted" aria-hidden="true"></i></a>&nbsp;
                   {% endif %}
+                  {% if site.authors[name].sns.site %}
+                      <a target="_blank" href="{{ site.authors[name].sns.site }}"><i class="fa fa-home text-muted" aria-hidden="true"></i></a>&nbsp;
+                  {% endif %}
                 </div>
                 <div class="my-3"><p>{{ site.authors[name].bio }}</p></div>
                 <div class="my-3 excerpt">

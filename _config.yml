@@ -181,6 +181,20 @@ authors:
       avatar: /assets/images/people/yoo.jpg
       bio: "고대 이집트 문헌의 한국어 번역, 이집트 신화 및 신화의 비교연구에 관심이 있습니다."
       #sns:
+
+    jeong-choongwon:
+      name:   jeong
+      name-ko:  "정충원"
+      name-en:  "JEONG, Choongwon"
+      title:    "서울대학교 자연과학대학 생명과학부 조교수"
+      education:
+        - "미국 시카고대학교 인류유전학과 (박사)"
+        - "서울대학교 생명과학부 (석사, 학사)"
+      interest: ["인류진화사", "집단유전학", "고유전체"]
+      avatar: /assets/images/people/jeong.jpg
+      bio: "사람과 가축의 유전체 정보를 분석하여 과거 인류의 이동과 혼합, 진화의 역사를 연구하고 있습니다."
+      sns:
+        site: https://biosci.snu.ac.kr/jeongpopgen 
  
 # Defaults
 defaults:
