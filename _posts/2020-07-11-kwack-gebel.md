@@ -2,7 +2,7 @@
 layout: post
 title:  "아무도 관심 없을 이집트 유물 이야기 #1 : 게벨 엘-아라크(Gebel el-Arak)의 단도"
 author: kwack-minsoo
-categories: [ "고대-이집트로의-초대" ] 
+categories: [ "고대-이집트로의-초대" ]
 tags: [ egypt ] 
 image: assets/images/post/gebel-knife.jpg
 ---
