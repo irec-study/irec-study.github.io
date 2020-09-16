@@ -101,7 +101,8 @@
         <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
             
          
-        <h4 class="font-weight-bold spanborder text-capitalize" id="책의향기-고대의향연"><span>책의향기-고대의향연</span></h4>
+        <a id="책의향기-고대의향연" name="책의향기-고대의향연"> </a><br><br>
+        <h4 class="font-weight-bold spanborder text-capitalize">책의향기-고대의향연</h4>
             
         
         
@@ -241,7 +242,8 @@
         
 
          
-        <h4 class="font-weight-bold spanborder text-capitalize" id="고대-이집트로의-초대"><span>고대-이집트로의-초대</span></h4>
+        <a id="고대-이집트로의-초대" name="고대-이집트로의-초대"> </a><br><br>
+        <h4 class="font-weight-bold spanborder text-capitalize">고대-이집트로의-초대</h4>
             
         
         
@@ -315,7 +317,8 @@
         
 
          
-        <h4 class="font-weight-bold spanborder text-capitalize" id="forum"><span>Forum</span></h4>
+        <a id="forum" name="forum"> </a><br><br>
+        <h4 class="font-weight-bold spanborder text-capitalize">Forum</h4>
             
         
         
@@ -424,6 +427,19 @@
 
     <!-- All this area goes before </body> closing tag --> 
 
+
+<script>
+jQuery(document).ready(function () {
+    var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+    if (window.location.hash && isChrome) {
+        setTimeout(function () {
+            var hash = window.location.hash;
+            window.location.hash = "";
+            window.location.hash = hash;
+        }, 300);
+    }
+});
+</script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177942071-1"></script>
