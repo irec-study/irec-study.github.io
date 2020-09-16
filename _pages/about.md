@@ -2,13 +2,12 @@
 title: "ABOUT IREC"
 layout: page-sidebar
 permalink: "/about.html"
-#image: "/assets/images/shim_7479.jpg"
 ---
 
 고대문명연구소 소개
 ====
 
-__The Institute for Research on Early Civilizations (IREC)__
+<h5 class="my-3"><a href="about-en.html" class="text-dark">The Institute for Research on Early Civilizations (IREC)</a> <a href="about-en.html"><span class="badge badge-success">English</span></a></h5>
 
 인류 문명의 토대를 제공한 세계 4대 문명, 가슴 뛰는 호기심의 대상이지만 멀게만 느껴졌습니다. 한국과 가까이서 교류한 중국 고대문명만 학술적 연구의 대상으로 명맥을 유지하는 정도였지요. 지난 세기말부터 본격화된 한국의 경제 성장은 학술계에도 연구 범위 확장이라는 과실을 안겨주는 것 같습니다. 아직 초보적 단계를 지나고 있지만, 이집트나 메소포타미아, 인도, 지중해 등 고대문명을 다룬 괜찮은 번역서들이 서점의 서가에 꽂히고 있습니다. 더욱 고무적인 사실은 학문에 대한 열정 하나만으로 해외의 유수 대학에서 그 어려운 분야를 전문적으로 공부했거나 현재 공부 중인 소장 학자들이 늘어나고 있는 점입니다.
 
