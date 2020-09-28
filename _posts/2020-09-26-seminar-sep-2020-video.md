@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "&#10092;인더스 문명 연구 100년: 쟁점과 연구과제&#10093; (김용준)"
+title: "강연동영상 &#10092;인더스 문명 연구 100년: 쟁점과 연구과제&#10093; (김용준)"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ sticky, India, Forum ]
+tags: [ India, Forum ]
 image: assets/images/post/forum-20200923.jpg
 ---
 
