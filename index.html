@@ -23,7 +23,7 @@ description: 'The Institute for Research on Early Civilizations (IREC)'
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-5 pb-5 pr-lg-4 align-self-center">
-                <h1 class="mb-3">{{post.title}}</h1>
+                <h1 class="mb-3"><a href="{{site.baseurl}}{{post.url}}" class="text-dark">{{post.title}}</a></h1>
                 <p class="mb-3 lead">
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
                 </p>
