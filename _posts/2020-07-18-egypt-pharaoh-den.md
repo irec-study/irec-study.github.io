@@ -3,7 +3,7 @@ layout: post
 title:  "아무도 관심 없을 이집트 유물 이야기 #2 : 파라오 덴(Den)의 상아판"
 author: kwack-minsoo
 categories: [ "고대-이집트로의-초대" ]
-tags: [ egypt ] 
+tags: [ Egypt ] 
 image: assets/images/post/egypt-den-label.jpg
 ---
 

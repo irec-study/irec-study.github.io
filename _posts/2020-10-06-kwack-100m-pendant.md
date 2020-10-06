@@ -3,7 +3,7 @@ layout: post
 title:  "아무도 관심 없을 이집트 유물 이야기 #3 : 1000억원 짜리 유물"
 author: kwack-minsoo
 categories: [ "고대-이집트로의-초대" ]
-tags: [ Sticky, Egypt ] 
+tags: [ sticky, Egypt ] 
 image: assets/images/post/egypt-100m-pendant.jpg
 ---
 
