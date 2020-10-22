@@ -3,7 +3,7 @@ layout: post
 title: "&#10092;동아시아출토문헌연구회&#10093; 10월 정기모임 공지"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ Gomoonza, Forum, sticky ]
+tags: [ Gomoonza, Forum ]
 image: assets/images/post/qinghuajian.jpg
 ---
 
