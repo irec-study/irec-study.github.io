@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;고대 근동의 서기관 문화&#10093; (유성환 박사)"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ Egypt, Mesopotamia, Forum, sticky ]
+tags: [ Egypt, Mesopotamia, Forum ]
 image: assets/images/post/west-asia-scribes.jpg
 ---
 
