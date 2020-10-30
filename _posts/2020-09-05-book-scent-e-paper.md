@@ -3,7 +3,7 @@ layout: post
 title:  "악鄂, 악鄂"
 author: shim-jaehoon
 categories: [ "책의향기-고대의향연" ] 
-tags: [ paper, review ] 
+tags: [ paper, review, China ] 
 image: assets/images/post/e-e-book.jpg
 ---
 
