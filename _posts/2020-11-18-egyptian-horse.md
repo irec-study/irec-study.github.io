@@ -3,7 +3,7 @@ layout: post
 title:  "그냥 난데없이 해보는 고대 이집트 이야기 : 고대 이집트의 말"
 author: kwack-minsoo
 categories: [ "고대-이집트로의-초대" ]
-tags: [ Egypt, sticky ] 
+tags: [ Egypt ] 
 image: assets/images/post/egyptian-horses.jpg
 ---
 
