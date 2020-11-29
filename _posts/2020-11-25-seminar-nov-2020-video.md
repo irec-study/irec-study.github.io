@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;이스라엘/팔레스틴 고고학 역사와 전망&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ Egypt, Mesopotamia, Forum, sticky ]
+tags: [ Egypt, Mesopotamia, Forum ]
 image: assets/images/post/israel-palestine-archaeology.jpg
 ---
 
