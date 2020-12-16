@@ -3,7 +3,7 @@ layout: post
 title:  "심재훈 교수의 청동기로 본 고대중국 (강연동영상)"
 author: ghim-gwanglim
 categories: [ Lecture ]
-tags: [ Lecture ] 
+tags: [ China, Lecture ] 
 image: assets/images/post/chinese-bronze-animal2.jpg
 ---
 
