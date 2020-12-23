@@ -3,7 +3,7 @@ layout: post
 title:  "케임브리지 중국 고대사 - 의고와 신고 (강연동영상)"
 author: shim-jaehoon
 categories: [ "책의향기-고대의향연" ] 
-tags: [ China, Lecture, sticky ] 
+tags: [ China, Lecture ] 
 image: assets/images/post/cambridge-history-ancient-china.jpg
 ---
 
