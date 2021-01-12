@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;중국 고대 지역국가의 발전: 진의 봉건에서 문공의 패업까지&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/icas2019-book-winner.jpg
 ---
 
