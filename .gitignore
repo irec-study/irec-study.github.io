@@ -1,2 +1,11 @@
+## MacOS
+*.DS_Store
+.bundle
+
+## Jekyll stuff
+/_site/
+_site/
+.jekyll-metadata
 .jekyll-cache
-.DS_Store
+.jekyll
+Gemfile.lock
