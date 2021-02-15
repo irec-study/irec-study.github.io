@@ -80,6 +80,19 @@ authors:
       #  facebook:
       #  instagram:
 
+    kim-koowon:
+      name:     kwkim    	
+      name-ko:  "김구원"
+      name-en:  "KIM, Koowon"
+      title:    "성서학자, 고대근동역사가"
+      education:
+        - "미국 시카고대학교 근동언어문명학과(박사)"
+        - "미국 웨스트민스터신학교 (석사)"
+        - "서울대학교 철학과 (학사)"
+      interest: []
+      avatar: /assets/images/people/kwkim.jpg
+      bio: "구약성서를 인문학(철학, 정치, 역사)의 관점에서 연구하는 일에 관심이 있습니다. 메소포타미아와 시리아 팔레스타인 지역의 문헌과 고고학에 대한 공부를 꾸준히 하고 있습니다. <a href='https://independent.academia.edu/KoowonKim' target='_blank'>academia.edu/KoowonKim</a>"
+
     kim-ari:
       name:     arkim
       name-ko:  "김아리"
