@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;유전자로 추적하는 인류의 역사&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ Human-genetics, Forum, sticky ]
+tags: [ Human-genetics, Forum ]
 image: assets/images/post/northen-china-ancient-dna.jpg
 ---
 
