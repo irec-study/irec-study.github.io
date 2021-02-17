@@ -38,13 +38,17 @@ authors:
       name:     kang
       name-ko:  "강후구"
       name-en:  "KANG, Hoo-Goo"
-      #role:
       title:    "서울장신대학교 교양학과 부교수"
+      title-en: "Junior Professor, Seoul Jangsin University"
       education:
         - "이스라엘 예루살렘 히브리대학교 고고학과 (박사)"
         - "미국 듀북신학교 신학과 (석사)"
         - "장로회신학대학교, 신학대학원 (석사, 학사)"
-      interest: ["이스라엘 고고학", "성서고고학", "토기 형태학", "철기 시대"]
+      education-en:
+        - "Institute of Archaeology / Hebrew University of Jerusalem (M.A., Ph.D.)"
+        - "University of Dubuque Theological Seminary (Dubuque, IA) (M.A.R.)"
+        - "Presbyterian University and Theological Seminary (B.A., M.Div.)"
+      interest: ["이스라엘 고고학", "성서고고학", "토기 형태학", "철기 시대", "Pottery Typology", "Iron Age", "Khirbet Qeiyafa", "Tel Lachish", "Kingdom of Judah"]
       avatar: /assets/images/people/kang.jpg
       bio: "이스라엘 지역 고고학(토기 형태학)을 전공하였고, 현장 발굴을 통한 결과물을 바탕으로 고대 이스라엘 역사 재구성에 관심이 있습니다."
 
@@ -53,25 +57,37 @@ authors:
       name-ko:  "곽민수"
       name-en:  "KWACK, Min-Soo"
       title:    "이집트 고고학자"
+      title-en: "Egyptian Archaeologist"
       education:
         - "영국 더럼대학교 고고학과 (박사 수료)"
         - "영국 옥스퍼드대학교 이집트학 (석사)"
         - "영국 런던대학교 고고학 (석사)"
         - "한양대학교 국제학 (석사)"
         - "한양대학교 문화인류학 (학사)"
-      interest: []
+      education-en:
+        - "Durham University (Ph.D., candidate)"
+        - "University of Oxford (M.Phil., Egyptology)"
+        - "University College London (M.A., Archaeology)"
+        - "Hanyang University (M.A., International Studies)"
+        - "Hanyang University (B.A., Cultural Anthropology)"
+      interest: ["이집트 고고학", "이집트학", "의례경환", "물질문화", "메터리얼리티", "Egyptian archaeology", "Egyptology", "Ritual landscape", "material culture", "materiality"]
       avatar: /assets/images/people/kwack.jpg
       bio: "고대 이집트의 의례 경관와 사회문화 변동, 그리고 개인 행위수행자와 물질문화의 관계에 관심을 갖고 있습니다."
+      bio-en: "Focusing on ritual landscape, socio-cultural change, relationship between agent and material culture, New Kingdom Egypt."
 
     ghim-gwanglim:
       name:     ghim
       name-ko:  "김광림"
       name-en:  "GHIM, Gwang-lim"
-      #role:
       title:    "단국대학교 사학과 석박사통합과정 / 네이버 머신러닝엔지니어"
+      title-en: "PhD student, Dankook University / Machine Learning Engineer, Naver Corp."
       education:
+        - "단국대학교 사학과 (석박사통합과정)"
         - "KAIST 전산학과 (학사)"
-      interest: ["중국고대사", "선진시대", "데이터역사학"]
+      education-en:
+        - "Dankook University (Ph.D. student, History)"
+        - "Korea Advanced Institute of Science and Technology(KAIST) (B.S., Computer Science)"
+      interest: ["중국고대사", "선진시대", "데이터역사학", "Early China", "Pre-Qin", "Digital History", "Digital Humanities", "Data History Science"]
       #site:
       avatar: /assets/images/people/ghim.jpg
       bio: "데이터로 고대사를 읽고자 합니다. 숨겨진 역사의 패턴을 찾아 정량적으로 분석할 수 있다고 믿습니다."
@@ -84,11 +100,16 @@ authors:
       name:     kwkim    	
       name-ko:  "김구원"
       name-en:  "KIM, Koowon"
-      title:    "성서학자, 고대근동역사가"
+      title:    "성서학자 / 고대근동역사가"
       education:
         - "미국 시카고대학교 근동언어문명학과(박사)"
         - "미국 웨스트민스터신학교 (석사)"
         - "서울대학교 철학과 (학사)"
+      education-en:
+        - "University of Chicago (Ph.D., Hebrew Bible and Ancient Near Eastern Studies)"
+        - "University of Chicago (M.A., Hebrew Bible)"
+        - "Westminster Theological Seminary (Philadelphia, PA) (M.Div., in General Studies)"
+        - "Seoul National University (B.A., Philosophy)"
       interest: []
       avatar: /assets/images/people/kwkim.jpg
       bio: "구약성서를 인문학(철학, 정치, 역사)의 관점에서 연구하는 일에 관심이 있습니다. 메소포타미아와 시리아 팔레스타인 지역의 문헌과 고고학에 대한 공부를 꾸준히 하고 있습니다. <a href='https://independent.academia.edu/KoowonKim' target='_blank'>academia.edu/KoowonKim</a>"
@@ -98,11 +119,16 @@ authors:
       name-ko:  "김아리"
       name-en:  "KIM, A-Ri"
       title:    "고대문헌학자"
+      title-en: "Epigraphist"
       education:
         - "프랑스 판테옹-소르본, 파리 1대학 고대근동학 (박사, 석사)"
         - "프랑스 파리 카톨릭대학교 고대근동언어학(학사)"
         - "홍익대학교 역사교육학과(학사)"
-      interest: ["신화", "법제사", "고대근동", "고전"]
+      education-en:
+        - "Pantheon-Sorbonne Paris 1 University (M.A./Ph.D.)"
+        - "Catholic University of Paris (ELCOA) (B.A.)"
+        - "Hongik University (B.A.)"
+      interest: ["신화", "법제사", "고대근동", "고전", "Mythology", "Ancient Near Eastern Studies", "History of Laws"]
       avatar: /assets/images/people/arkim.jpg
       bio: "고대근동의 법제사로 박사학위를 받았습니다. 지금은 상속법 연구를 진행하고 있습니다. 법제사와 고대사에 관심이 많습니다."
 
@@ -111,9 +137,13 @@ authors:
       name-ko:  "김용준"
       name-en:  "KIM, Yongjun"
       title:    "한국문화재재단 국제협력단 연구원"
+      title-en: "Researcher, Korea Cultural Heritage Foundation"
       education:
         - "인도 데칸대학교 고고학과 (박사, 석사)"
         - "고려대학교 역사교육과 (학사)"
+      education-en:
+        - "Deccan College, India (M.A./Ph.D., Archaeology)"
+        - "Korea University (B.A., History Education)"
       interest: ["인도고고학", "인도문화사", "고고학이론", "제국주의와 고고학"]
       avatar: /assets/images/people/yjkim.jpg
       bio: "인도는 유라시아 대륙의 다양한 인구가 섞여 살고 있는 지역입니다. 이는 선사의 시대로 거슬러가는 유라시아 인류의 끊임없는 이동과 연관이 있습니다. 인도유럽어인의 이동과 밀 농경, 인더스 도시, 철기시대 거석문화 등과의 관계는 인도고대사를 이해하는 키워드 중 하나입니다. 이 주제에 많은 관심을 가지고 있습니다."
@@ -124,12 +154,16 @@ authors:
       name:     yhkim
       name-ko:  "김용하"
       name-en:  "KIM, Yong-ha"
-      #role:
       title:    "미국 컬럼비아대학교 동아시아 언어문화학과 박사 후보생"
+      title-en: "Ph.D. Candidate in East Asian Languages and Cultures, Columbia University"
       education:
         - "미국 컬럼비아대학교 동아시아 언어문화학과 (박사 수료)"
         - "고려대학교 사학과 (석사, 학사)"
-      interest: ["중국 고대사", "세계제국사", "고고학"]
+      education-en:
+        - "Columbia University (Ph.D. Candidate, East Asian Languages and Cultures)"
+        - "Columbia University (M.Phil., East Asian Languages and Cultures)"
+        - "Korea University (M.A./B.A., History)"
+      interest: ["중국 고대사", "세계제국사", "고고학", "Early China", "Ancient Empires", "Archaeology", "Excavated Texts"]
       #site:
       avatar: /assets/images/people/yhkim.jpg
       bio: "전국시대의 분열과 진한제국의 통일, 그리고 세계의 다양한 고대제국들에 관심 있습니다."
@@ -139,13 +173,17 @@ authors:
       name:     sjpark
       name-ko:  "박성진"
       name-en:  "PARK, Seong-Jin"
-      #role:
       title:    "단국대학교 동양학연구원 연구교수"
+      title-en: "Research professor, Dankook University"
       education:
         - "프랑스 파리 10-낭테르대학교 (박사)"
         - "프랑스 국립자연사박물관(MNHN) 고인류학연구소 DEA 졸업"
         - "단국대학교 사학과 (석사, 학사)"
-      interest: ["고대 기술체계", "문명 간 교역", "생물고고학", "고고학사"]
+      education-en:
+        - "Paris Nanterre University, France (Ph.D)"
+        - "National Museum of Natural History, France (DEA)"
+        - "Dankook University (M.A./B.A.)"
+      interest: ["고대 기술체계", "문명 간 교역", "생물고고학", "고고학사", "Technological Systems in Ancient civilizations", "Trades between civilizations", "Bioarchaeology", "History of Archaeology"]
       #site:
       avatar: /assets/images/people/sjpark.jpg
       bio: "선사시대 석기제작기술체계에 관한 연구로 박사학위를 취득했고 현재 고대 문명 간 자원 교역시스템에 관심을 두고 연구하고 있습니다."
@@ -155,13 +193,17 @@ authors:
       name:     ban
       name-ko:  "반기현"
       name-en:  "BAN, Kee-Hyun"
-      #role:
       title:    "육군사관학교 군사사학과 교수"
+      title-en: "Assistant Professor in Military History, Korea Military Academy" 
       education:
         - "영국 킹스칼리지런던 서양고전학 (박사)"
         - "고려대학교 서양사학 (석사)"
         - "홍익대학교 영어영문학 (학사)"
-      interest: ["서양고대사", "로마사"]
+      education-en:
+        - "King’s College London (Ph.D., Classics(Roman History))"
+        - "Korea University (M.A. Western History)"
+        - "Hongik University (B.A. English Language and Literature)"
+      interest: ["서양고대사", "로마사", "Ancient History", "Roman History"]
       #site:
       avatar: /assets/images/people/ban.jpg
       bio: "로마제국의 군대와 군사전략에 대해 연구하고 가르치고 있습니다."
@@ -173,9 +215,13 @@ authors:
       name-en:  "SHIM, Jae-hoon"
       role:     "연구소장"
       title:    "단국대학교 사학과 교수 / 고대문명연구소 소장"
+      title-en: "Professor in Early Chinese History, Dankook University / Director of IREC"
       education:
         - "미국 시카고대학교 동아시아언어문명학과 (박사)"
         - "단국대학교 사학과 (석사, 학사)"
+      education-en:
+        - "University of Chicago (Ph.D.)"
+        - "Dankook University (M.A./B.A.)"
       interest: ["고대중국", "출토문헌", "고대문명", "고고학"]
       #site:
       avatar: /assets/images/people/shim.jpg
@@ -191,12 +237,16 @@ authors:
       name-en:  "YOO, Sung Hwan"
       #role:
       title:    "이집트학자 / 서울대학교 인문학연구소 선임연구원"
+      title-en: "Egyptologist / Senior Researcher, Institute of Humanities, Seoul National University"
       education:
         - "미국 브라운대학교 이집트학과 (박사)"
+      education-en:
+        - "Brown University (Ph.D., Egyptology)"
       interest: ["이집트학", "문헌학"]
       #site:
       avatar: /assets/images/people/yoo.jpg
       bio: "고대 이집트 문헌의 한국어 번역, 이집트 신화 및 신화의 비교연구에 관심이 있습니다."
+      bio-en: "Focusing on interpretation of ancient Egyptian texts into Korean and comparative studies on mythologies including ancient Egyptian myths"
       #sns:
 
     jeong-choongwon:
@@ -204,10 +254,14 @@ authors:
       name-ko:  "정충원"
       name-en:  "JEONG, Choongwon"
       title:    "서울대학교 자연과학대학 생명과학부 조교수"
+      title-en: "Assistant professor, School of Biological Sciences, Seoul National University"
       education:
         - "미국 시카고대학교 인류유전학과 (박사)"
         - "서울대학교 생명과학부 (석사, 학사)"
-      interest: ["인류진화사", "집단유전학", "고유전체"]
+      education-en:
+        - "University of Chicago (Ph.D., Human Genetics)"
+        - "Seoul National University (M.S./B.S., Biological Sciences)"
+      interest: ["인류진화사", "집단유전학", "고유전체", "Human evolution", "population genetics", "ancient genome"]
       avatar: /assets/images/people/jeong.jpg
       bio: "사람과 가축의 유전체 정보를 분석하여 과거 인류의 이동과 혼합, 진화의 역사를 연구하고 있습니다."
       sns:

@@ -45,9 +45,12 @@ permalink: "/people.html"
             </div>
 
             <div class="col-md-9">
-                <h4 class="text-dark mb-1"><a class="text-dark" href="{{site.baseurl}}/author-{{ author[1].name | slugify }}"> {{ author[1].name-ko }} </a></h4>
+                <h4 class="text-dark mb-1"><a class="text-dark" href="{{site.baseurl}}/author-{{ author[1].name | slugify }}"> {{ author[1].name-en }} &nbsp; {{ author[1].name-ko }} </a></h4>
+                {% if author[1].title-en %}
+                <div class="text-dark text-light mb-0">{{ author[1].title-en }}</div>
+                {% endif %}
                 <div class="text-dark text-light mb-0">{{ author[1].title }}</div>
-                <div>
+                <div class="mt-2">
                   <a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">
                       <small class="d-inline-block mt-1 mb-3 font-weight-normal">View Posts</small>
                   </a>&nbsp;
@@ -61,6 +64,17 @@ permalink: "/people.html"
                       <a target="_blank" href="{{ author[1].sns.site }}"><i class="fa fa-home text-muted" aria-hidden="true"></i></a>&nbsp;
                   {% endif %}
                 </div>
+                {% if author[1].bio-en %}
+                <div class="mb-1"><p>{{ author[1].bio-en }}</p></div>
+                {% endif %}
+                {% if author[1].education-en %}
+                <div class="my-3 excerpt">
+                  {% for education in author[1].education-en %}
+                    <div class="ml-1"><span>&#8728;</span> {{ education }}</div>
+                  {% endfor %}
+                </div>
+                {% endif %}
+
                 <div class="mb-1"><p>{{ author[1].bio }}</p></div>
                 <div class="my-3 excerpt">
                 {% for education in author[1].education %}
