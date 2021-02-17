@@ -1,10 +1,11 @@
 <ul class="nav bd-sidenav">
   <li class="active bd-sidenav">
     <a href="{{site.baseurl}}/people.html">PEOPLE</a>
-    <h6 class="mt-3"><span class="badge badge-dark">RESEARCH COMMITTEE</span></h6>
+    <h6 class="mt-3"><span class="badge badge-dark">DIRECTOR</span>&nbsp;&nbsp;<a href="#shim">SHIM, Jae-hoon</a></h6>
+    <h6 class="mt-3"><span class="badge badge-dark">RESEARCH FELLOW</span></h6>
     <ul>
       <li>Prehistory : <a href="{{site.baseurl}}/people.html#sjpark">PARK, Seong-Jin</a></li>
-      <li>Mesopotamia : <a href="{{site.baseurl}}/people.html#kang">KANG, Hoo-Goo</a> / <a href="{{site.baseurl}}/people.html#kwkim">KIM, Koowon</a> / <a href="{{site.baseurl}}/people.html#arkim"> <a href="{{site.baseurl}}/people.html#arkim">KIM, A-Ri</a></li>
+      <li>Mesopotamia : <a href="{{site.baseurl}}/people.html#kang">KANG, Hoo-Goo</a> / <a href="{{site.baseurl}}/people.html#kwkim">KIM, Koowon</a> / <a href="{{site.baseurl}}/people.html#arkim">KIM, A-Ri</a></li>
       <li>Egypt : <a href="{{site.baseurl}}/people.html#kwack">KWACK, Min-Soo</a> / <a href="{{site.baseurl}}/people.html#yoo">YOO, Sung Hwan</a></li>
       <li>India : <a href="{{site.baseurl}}/people.html#yjkim">KIM, Yongjun</a></li>
       <li>China : <a href="{{site.baseurl}}/people.html#yhkim">KIM, Yong-ha</a> / <a href="{{site.baseurl}}/people.html#shim">SHIM, Jae-hoon</a></li>
@@ -12,8 +13,14 @@
       <li>Human Genetics : <a href="{{site.baseurl}}/people.html#jeong">JEONG, Choongwon</a></li>
       <li>Digital History : <a href="{{site.baseurl}}/people.html#ghim">GHIM, Gwang-lim</a></li>
     </ul>
+    <h6 class="mt-3"><span class="badge badge-dark">OVERSEAS ADVISORY COMMITTEE</span></h6>
+	<ul>
+    {% for author in site.advisors %}
+      <li><a href={{ author[1].link.home }} target="_blank">{{ author[1].name }}</a>&nbsp; <a href={{ author[1].link.academia }} target="_blank"><span class="text-muted small">(Academia)</span></a></li>
+    {% endfor %}
+	</ul>
   </li>
-  <li class="active bd-sidenav mt-3">
+  <li class="active bd-sidenav mt-4">
     <a href="{{site.baseurl}}/contact.html">CONTACT US</a>
     <p>
     We are happy to answer your questions. Please drop us a line.

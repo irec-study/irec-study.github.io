@@ -212,6 +212,34 @@ authors:
       bio: "사람과 가축의 유전체 정보를 분석하여 과거 인류의 이동과 혼합, 진화의 역사를 연구하고 있습니다."
       sns:
         site: https://biosci.snu.ac.kr/jeongpopgen 
+
+# 해외자문위원회 Overseas Advisory Committee
+advisors:
+    yosef-garfinkel:
+      name: "Yosef Garfinkel"
+      link:
+        home: https://archaeology.huji.ac.il/people/yosef-garfinkel
+        academia: https://huji.academia.edu/YosefGarfinkel
+
+    francis-joannes:
+      name: "Francis Joannes"
+      link:
+        home: https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1%5Buid%5D=joannes
+        academia: https://univ-paris1.academia.edu/FJoann%C3%A8s
+
+    feng-li:
+      name: "Feng Li"
+      link:
+        home: http://ealac.columbia.edu/feng-li/
+        academia: https://columbia.academia.edu/LiFeng
+
+    norman-yoffee:
+      name: "Norman Yoffee"
+      link:
+        home: https://sites.google.com/a/umich.edu/norman-yoffee/
+        academia: https://umich.academia.edu/NormanYoffee
+
+    
  
 # Defaults
 defaults:
