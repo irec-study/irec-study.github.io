@@ -12,7 +12,7 @@
     연구소 운영진을 소개합니다. 선사시대와 고대 문명, 그리고 유전학과 디지털 전문가들이 함께하고 있습니다.
     </p>
     <h6 class="mt-3"><span class="badge badge-dark">연구소장</span>&nbsp;&nbsp;심재훈</h6>
-    <h6 class="mt-3"><span class="badge badge-dark">운영위원</span></h6>
+    <h6 class="mt-3"><span class="badge badge-dark">연구위원</span></h6>
     <ul>
       <li>선사시대 : 박성진</li>
       <li>메소포타미아 : 강후구, 김구원, 김아리</li>
@@ -25,10 +25,9 @@
     </ul>
     <h6 class="mt-3"><span class="badge badge-dark">해외자문위원</span></h6>
     <ul>
-      <li>Yosef Garfinkel</li>
-      <li>Francis Joannes</li>
-      <li>Feng Li</li>
-      <li>Norman Yoffee</li>
+    {% for author in site.advisors %}
+      <li>{{ author[1].name }}</li>
+    {% endfor %}
     </ul>
   </li>
   <li class="active bd-sidenav mt-3">

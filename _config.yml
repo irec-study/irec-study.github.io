@@ -269,6 +269,12 @@ authors:
 
 # 해외자문위원회 Overseas Advisory Committee
 advisors:
+    john-baines:
+      name: "John Baines"
+      link:
+        home: https://www.orinst.ox.ac.uk/people/john-baines
+        academia: https://www.thebritishacademy.ac.uk/fellows/john-baines-FBA/
+
     yosef-garfinkel:
       name: "Yosef Garfinkel"
       link:
