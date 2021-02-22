@@ -293,6 +293,12 @@ advisors:
         home: http://ealac.columbia.edu/feng-li/
         academia: https://columbia.academia.edu/LiFeng
 
+    dominic-rathbone:
+      name: "Dominic Rathbone"
+      link:
+        home: https://www.kcl.ac.uk/people/dominic-rathbone
+        academia: https://orcid.org/0000-0002-5465-5534
+
     norman-yoffee:
       name: "Norman Yoffee"
       link:
