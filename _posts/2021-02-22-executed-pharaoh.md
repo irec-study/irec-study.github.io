@@ -3,7 +3,7 @@ layout: post
 title:  "사형을 당한 파라오"
 author: kwack-minsoo
 categories: [ "고대-이집트로의-초대" ]
-tags: [ Egypt, sticky ] 
+tags: [ Egypt ] 
 image: assets/images/post/excuted-pharaoh.jpg
 ---
 
