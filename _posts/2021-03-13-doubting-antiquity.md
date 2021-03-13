@@ -3,7 +3,7 @@ layout: post
 title:  "의고疑古의 원조 1"
 author: shim-jaehoon
 categories: [ "책의향기-고대의향연" ] 
-tags: [ books, review ] 
+tags: [ books, review, sticky ] 
 image: assets/images/post/kaoxin-book.jpg
 ---
 
