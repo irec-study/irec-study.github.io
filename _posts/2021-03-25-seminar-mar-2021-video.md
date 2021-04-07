@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;신 바빌론시대 범죄와 처벌&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ Mesopotamia, Forum, sticky ]
+tags: [ Mesopotamia, Forum ]
 image: assets/images/post/neo-babylonian-tablet.jpg
 ---
 
@@ -34,4 +34,8 @@ image: assets/images/post/neo-babylonian-tablet.jpg
 
 다음 정기 포럼은 고대 로마시대를 주제로 [반기현 교수님](/author-ban)께서 맡아주실 예정입니다.
 
-시간은 4월 17일(토) 오후 3시입니다. (Zoom 링크는 추후 공개됩니다!)
+시간은 ~4월 17일(토)~ 오후 3시입니다. (Zoom 링크는 추후 공개됩니다!)
+
+(update)
+
+다음 정기포럼은 4월 24일로 변경되었습니다.
