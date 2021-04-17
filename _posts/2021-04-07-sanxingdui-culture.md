@@ -3,7 +3,7 @@ layout: post
 title: "삼성퇴(싼싱두이三星堆) 고대문명"
 author: shim-jaehoon
 categories: [ Lecture ] 
-tags: [ China, Lecture, sticky ] 
+tags: [ China, Lecture ]
 image: assets/images/post/sanxingdui-bronze-mask.jpg
 ---
 
