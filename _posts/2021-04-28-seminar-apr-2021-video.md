@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;로마 제국의 군대와 군사전략&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ Rome, Forum, sticky ] 
+tags: [ Rome, Forum ] 
 image: assets/images/post/roman-war3.jpg
 ---
 
