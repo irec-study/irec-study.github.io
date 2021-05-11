@@ -3,7 +3,7 @@ layout: post
 title:  "호기심을 유발하는 발굴: 중산왕릉과 증후을묘"
 author: shim-jaehoon
 categories: [ "책의향기-고대의향연" ] 
-tags: [ China, sticky ] 
+tags: [ China ] 
 image: assets/images/post/zhongshan-tomb.jpg
 ---
 
