@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;유일신교의 역사적 기원과 의미&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ Mesopotamia, Forum, sticky ] 
+tags: [ Mesopotamia, Forum ] 
 image: assets/images/post/moabite-stone.jpg
 ---
 
