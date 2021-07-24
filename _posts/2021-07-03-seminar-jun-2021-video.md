@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;마야문명의 운영자들&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ Mesoamerica, Forum, sticky ] 
+tags: [ Mesoamerica, Forum ] 
 image: assets/images/post/maya2.jpg
 ---
 
