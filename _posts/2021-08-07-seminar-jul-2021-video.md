@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;고대 이집트 피라미드의 변천&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ Egypt, Forum, sticky ] 
+tags: [ Egypt, Forum ] 
 image: assets/images/post/pyramid2.jpg
 ---
 
