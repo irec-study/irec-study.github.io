@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;북토크: 힌두교사 깊이 읽기, 종교학이 아닌 역사학으로&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ India, Forum, sticky ] 
+tags: [ India, Forum ] 
 image: assets/images/post/hinduism-history-book-img1.jpg
 ---
 
