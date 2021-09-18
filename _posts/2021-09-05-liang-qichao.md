@@ -3,7 +3,7 @@ layout: post
 title:  "양계초의 【청대학술개론】 (1921년)"
 author: shim-jaehoon
 categories: [ "책의향기-고대의향연" ] 
-tags: [ books, review, sticky ] 
+tags: [ books, review ] 
 image: assets/images/post/intellectual-trends-qing-book.jpg
 ---
 
