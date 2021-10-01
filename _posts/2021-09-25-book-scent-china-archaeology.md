@@ -3,7 +3,7 @@ layout: post
 title:  "중국 문명의 정수와 발굴 현장의 생생한 이야기: 감수의 변"
 author: shim-jaehoon
 categories: [ "책의향기-고대의향연" ] 
-tags: [ books, review, sticky ] 
+tags: [ books, review ] 
 image: assets/images/post/archaeology-china-book2.jpg
 ---
 
