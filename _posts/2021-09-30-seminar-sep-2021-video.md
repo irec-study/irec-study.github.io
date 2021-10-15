@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;REGICIDE - 왕이 살해되었다&#10093; : 이집트의 국왕시해"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ Egypt, Forum, sticky ] 
+tags: [ Egypt, Forum ]
 image: assets/images/post/tutankhamen-skull.jpg
 ---
 
