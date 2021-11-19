@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;사치의 탄생: 메소포타미아 문명의 우르(Ur) 유적&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ Mesopotamia, Forum, sticky ]
+tags: [ Mesopotamia, Forum ]
 image: assets/images/post/ur-luxury-01.jpg
 ---
 
