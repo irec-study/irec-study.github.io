@@ -173,6 +173,31 @@ authors:
       bio: "전국시대의 분열과 진한제국의 통일, 그리고 세계의 다양한 고대제국들에 관심 있습니다."
       #sns:
 
+    kim-jungryol:
+      name:     jrkim
+      name-ko:  "김정열"
+      name-en:  "KIM, Jungryol"
+      title:    "숭실대학교 사학과 교수"
+      education:
+        - "중국사회과학원 연구생원 고고계 역사학 (박사)"
+        - "숭실대학교 사학과 (학사, 석사, 박사)"
+      interest: ["중국고고학", "중국고대사", "출토문헌"]
+      avatar: /assets/images/people/jrkim.jpg
+      bio: "중국 청동기시대 고고학과 고대사를 연구합니다. 특히 중국 초기국가의 형성과 작동 메커니즘에 대해 관심을 가지고 있습니다."
+
+    kim-hyeok:
+      name:     hkim
+      name-ko:  "김혁"
+      name-en:  "KIM, Hyeok"
+      title:    "경상국립대학교 중어중문학과 조교수"
+      education:
+        - "중국 푸단대학교 중어중문학과 (박사)"
+        - "연세대학교 중어중문학과 (석사)"
+        - "고려대학교 중어중문학과 (학사)"
+      interest: ["갑골학", "중국고문자학", "한자발전사", "중국어사"]
+      avatar: /assets/images/people/hkim.jpg
+      bio: "중국 고문자학을 전공하였고, 중국 출토문헌 고문자 자료를 연구하는데 주로 갑골문의 자형 분석과 글자 해독을 중심으로 연구하고 있습니다."
+
     park-seongjin:
       name:     sjpark
       name-ko:  "박성진"
@@ -192,6 +217,18 @@ authors:
       avatar: /assets/images/people/sjpark.jpg
       bio: "선사시대 석기제작기술체계에 관한 연구로 박사학위를 취득했고 현재 고대 문명 간 자원 교역시스템에 관심을 두고 연구하고 있습니다."
       #sns:
+
+    park-jaebok:
+      name:     jbpark
+      name-ko:  "박재복"
+      name-en:  "PARK, Jaebok"
+      title:    "경동대학교 한국어교원학과 부교수"
+      education:
+        - "중국 북경대학교 고고문박학원 역사학 (석사, 박사)"
+        - "강원대학교 축산학과 (학사)"
+      interest: ["고문자학", "상주고고학", "금석학", "경학", "서예"]
+      avatar: /assets/images/people/jbpark.jpg
+      bio: "중국 선진시기 갑골 실물자료를 정리하였고, 최근 새롭게 출토되는 갑골, 청동기, 간독, 석각 자료들을 중심으로 문자의 조형과 고대사를 탐구하고 있습니다."
 
     ban-keehyun:
       name:     ban
@@ -235,6 +272,18 @@ authors:
         facebook: https://www.facebook.com/jaehoon.shim.399
       #  instagram:
 
+    won-yongjoon:
+      name:    won
+      name-ko:  "원용준"
+      name-en:  "WON, YongJoon"
+      title:    "충북대학교 철학과 부교수"
+      education:
+        - "일본 도쿄대학교 (박사)"
+        - "성균관대학교 (학사, 석사)"
+      interest: ["유교", "경학", "출토문헌", "중국고대사상사"]
+      avatar: /assets/images/people/won.jpg
+      bio: "출토문헌을 중심으로 중국 고대 사상을 연구하고 있습니다. 『주역』 등의 유교경전을 통해 사상사를 검토하는 것이 주요 관심분야입니다."
+
     yoo-sunghwan:
       name:     yoo
       name-ko:  "유성환"
@@ -252,6 +301,18 @@ authors:
       bio: "고대 이집트 문헌의 한국어 번역, 이집트 신화 및 신화의 비교연구에 관심이 있습니다."
       bio-en: "Focusing on interpretation of ancient Egyptian texts into Korean and comparative studies on mythologies including ancient Egyptian myths"
       #sns:
+
+    lee-sungryule:
+      name:    srlee
+      name-ko:  "이승율"
+      name-en:  "LEE, Sungryule"
+      title:    "경북대학교 철학과 부교수"
+      education:
+        - "일본 도쿄대학교 (석사, 박사)"
+        - "성균관대학교 (학사)"
+      interest: ["유가", "도가", "제자백가", "출토문헌", "중국철학", "정치철학"]
+      avatar: /assets/images/people/srlee.jpg
+      bio: "유가·도가 등 중국고대철학을 출토문헌과 전래문헌을 비교하는 방법으로 연구해 왔습니다. 최근에는 주로 동아시아 정치철학 분야에 관심을 가지고 연구를 진행하고 있습니다."
 
     jeong-choongwon:
       name:   jeong
