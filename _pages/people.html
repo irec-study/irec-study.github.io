@@ -27,11 +27,11 @@ permalink: "/people.html"
     </ul>
       <h6><span class="badge badge-primary">중국출토문헌연구팀</span></h6>
     <ul>
-      <li><a href="#jrkim">Jungryol Kim 김정열</a></li>
-      <li><a href="#hkim">Hyeok Kim 김혁</a></li>
-      <li><a href="#jbpark">Jaebok Park 박재복</a></li>
-      <li><a href="#won">YongJoon Won 원용준</a></li>
-      <li><a href="#srlee">Sungryule Lee 이승율</a></li>
+      <li><a href="#jrkim">Jungryol Kim 김정열 金正烈</a></li>
+      <li><a href="#hkim">Hyeok Kim 김 혁 金 赫</a></li>
+      <li><a href="#jbpark">Jaebok Park 박재복 朴載福</a></li>
+      <li><a href="#won">YongJoon Won 원용준 元勇準</a></li>
+      <li><a href="#srlee">Sungryule Lee 이승율 李承律</a></li>
     </ul>
     <h6 class="mt-3"><span class="badge badge-dark">Overseas Advisory Committee</span>&nbsp; 해외자문위원</h6>
 	<ul>
@@ -54,9 +54,12 @@ permalink: "/people.html"
             </div>
 
             <div class="col-md-9">
-                <h4 class="text-dark mb-1"><a class="text-dark" href="{{site.baseurl}}/author-{{ author[1].name | slugify }}"> {{ author[1].name-en }} &nbsp; {{ author[1].name-ko }} </a></h4>
+                <h4 class="text-dark mb-1"><a class="text-dark" href="{{site.baseurl}}/author-{{ author[1].name | slugify }}"> {{ author[1].name-en }} &nbsp; {{ author[1].name-ko }} {% if author[1].name-cn %} &nbsp; {{ author[1].name-cn }}{% endif %}</a></h4>
                 {% if author[1].title-en %}
                 <div class="text-dark text-light mb-0">{{ author[1].title-en }}</div>
+                {% endif %}
+                {% if author[1].title-cn %}
+                <div class="text-dark text-light mb-0">{{ author[1].title-cn }}</div>
                 {% endif %}
                 <div class="text-dark text-light mb-0">{{ author[1].title }}</div>
                 <div class="mt-2">
@@ -79,6 +82,13 @@ permalink: "/people.html"
                 {% if author[1].education-en %}
                 <div class="my-3 excerpt">
                   {% for education in author[1].education-en %}
+                    <div class="ml-1"><span>&#8728;</span> {{ education }}</div>
+                  {% endfor %}
+                </div>
+                {% endif %}
+                {% if author[1].education-cn %}
+                <div class="my-3 excerpt">
+                  {% for education in author[1].education-cn %}
                     <div class="ml-1"><span>&#8728;</span> {{ education }}</div>
                   {% endfor %}
                 </div>
