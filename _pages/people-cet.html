@@ -1,0 +1,95 @@
+---
+title: "Research Group for Chinese Excavated Texts"
+layout: default
+permalink: "/people-cet.html"
+---
+
+<div class="container">
+<h4 class="font-weight-bold spanborder"><span>중국출토문헌연구팀</span></h4>
+    <p>
+    <img src="/assets/images/logo.png" width="80" class="my-2"/>&nbsp; {{page.title}}
+    </p>
+    <ul>
+      <li><a href="#jrkim">김정열 金正烈 <span class="text-muted ml-2" style="font-size: 0.9em">Jungryol Kim</span></a></li>
+      <li><a href="#hkim">김 혁 金 赫 <span class="text-muted ml-2" style="font-size: 0.9em">Hyeok Kim</span></a></li>
+      <li><a href="#jbpark">박재복 朴載福 <span class="text-muted ml-2" style="font-size: 0.9em">Jaebok Park</span></a></li>
+      <li><a href="#won">원용준 元勇準 <span class="text-muted ml-2" style="font-size: 0.9em">YongJoon Won</span></a></li>
+      <li><a href="#srlee">이승율 李承律 <span class="text-muted ml-2" style="font-size: 0.9em">Sungryule Lee</span></a></li>
+    </ul>
+
+<h5 class="font-weight-bold spanborder mt-4"><span>상세 소개</span></h4>
+    <div class="row gap-y listrecent listrecent listauthor">
+    {% for author in site.authors %}
+        {% if author[1].group == "cet" %}
+        <div class="col-lg-6 mb-1">
+            <div class="p-4 border rounded">
+            <div class="row" id="{{ author[1].name }}">
+
+            <div class="col-md-3 mb-4 mb-md-0">
+                  <a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">
+                  <img alt="{{ author[1].name }}" src="{{ author[1].avatar }}" class="rounded-circle" height="80" width="80">
+                  </a>
+            </div>
+
+            <div class="col-md-9">
+                <h4 class="text-dark mb-1"><a class="text-dark" href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">{{ author[1].name-ko }} {% if author[1].name-cn %} &nbsp; {{ author[1].name-cn }}{% endif %}</a></h4>
+                <h6 class="text-dark mb-2">{{ author[1].name-en }}</h6>
+                {% if author[1].title-en %}
+                <div class="text-dark text-light mb-0">{{ author[1].title-en }}</div>
+                {% endif %}
+                {% if author[1].title-cn %}
+                <div class="text-dark text-light mb-0">{{ author[1].title-cn }}</div>
+                {% endif %}
+                <div class="text-dark text-light mb-0">{{ author[1].title }}</div>
+                <div class="mt-2">
+                  <a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">
+                      <small class="d-inline-block mt-1 mb-3 font-weight-normal">View Posts</small>
+                  </a>&nbsp;
+                  {% if author[1].sns.twitter %}
+                      <a target="_blank" href="{{ author[1].sns.twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>&nbsp;
+                  {% endif %}
+                  {% if author[1].sns.facebook %}
+                      <a target="_blank" href="{{ author[1].sns.facebook }}"><i class="fab fa-facebook-square text-muted" aria-hidden="true"></i></a>&nbsp;
+                  {% endif %}
+                  {% if author[1].sns.site %}
+                      <a target="_blank" href="{{ author[1].sns.site }}"><i class="fa fa-home text-muted" aria-hidden="true"></i></a>&nbsp;
+                  {% endif %}
+                </div>
+                {% if author[1].bio-en %}
+                <div class="mb-1"><p>{{ author[1].bio-en }}</p></div>
+                {% endif %}
+                {% if author[1].education-en %}
+                <div class="my-3 excerpt">
+                  {% for education in author[1].education-en %}
+                    <div class="ml-1"><span>&#8728;</span> {{ education }}</div>
+                  {% endfor %}
+                </div>
+                {% endif %}
+                {% if author[1].education-cn %}
+                <div class="my-3 excerpt">
+                  {% for education in author[1].education-cn %}
+                    <div class="ml-1"><span>&#8728;</span> {{ education }}</div>
+                  {% endfor %}
+                </div>
+                {% endif %}
+
+                <div class="mb-1"><p>{{ author[1].bio }}</p></div>
+                <div class="my-3 excerpt">
+                {% for education in author[1].education %}
+                  <div class="ml-1"><span>&#8728;</span> {{ education }}</div>
+                {% endfor %}
+                </div>
+                <div>
+                {% for interest in author[1].interest %}
+                  <span class="badge badge-success">{{ interest }}</span>
+                {% endfor %}
+                </div>
+            </div>
+
+            </div>
+            </div>
+        </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+</div>

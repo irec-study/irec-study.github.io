@@ -6,111 +6,20 @@ permalink: "/people.html"
 
 <div class="container">
 <h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
-    <img src="/assets/images/logo.png" width="80" class="my-2"/>&nbsp; 
     <p>
-    고대문명연구소 운영진을 소개합니다. 선사시대와 고대 문명, 그리고 유전학과 디지털 전문가들이 함께하고 있습니다.
+    <img src="/assets/images/logo.png" width="80" class="my-2"/>&nbsp; 고대문명연구소 운영진을 소개합니다.
     </p>
     <h6><span class="badge badge-dark">Director</span>&nbsp; 연구소장</h6>
 	<ul>
 	  <li><a href="#shim">Jae-hoon Shim 심재훈</a></li>
     </ul>
-    <h6 class="mt-3"><span class="badge badge-dark">Research Fellow</span>&nbsp; 연구위원</h6>
-      <h6><span class="badge badge-primary">문명연구팀</span><h6>
-    <ul>
-      <li>Prehistory : <a href="#sjpark">Seong-Jin Park 박성진</a></li>
-      <li>Mesopotamia : <a href="#kang">Hoo-Goo Kang 강후구</a> / <a href="#kwkim">Koowon Kim 김구원</a> / <a href="#arkim"><a href="#arkim">A-Ri Kim 김아리</a></li>
-      <li>Egypt : <a href="#kwack">Min-Soo Kwack 곽민수</a> / <a href="#yoo">Sung Hwan Yoo 유성환</a></li>
-      <li>India : <a href="#yjkim">Yongjun Kim 김용준</a></li>
-      <li>China : <a href="#yhkim">Yong-ha Kim 김용하</a> / <a href="#shim">Jae-hoon Shim 심재훈</a></li>
-      <li>Rome : <a href="#ban">Kee-Hyun Ban 반기현</a></li>
-      <li>Human Genetics : <a href="#jeong">Choongwon Jeong 정충원</a></li>
-      <li>Digital History : <a href="#ghim">Gwang-lim Ghim 김광림</a></li>
-    </ul>
-      <h6><span class="badge badge-primary">중국출토문헌연구팀</span></h6>
-    <ul>
-      <li><a href="#jrkim">Jungryol Kim 김정열 金正烈</a></li>
-      <li><a href="#hkim">Hyeok Kim 김 혁 金 赫</a></li>
-      <li><a href="#jbpark">Jaebok Park 박재복 朴載福</a></li>
-      <li><a href="#won">YongJoon Won 원용준 元勇準</a></li>
-      <li><a href="#srlee">Sungryule Lee 이승율 李承律</a></li>
-    </ul>
+    <h6 class="mt-3"><span class="badge badge-dark">Research Groups</span>&nbsp; 연구팀</h6>
+      <h6 class="pl-4"><span class="badge badge-primary">문명연구팀</span><a href="/people-ah.html" class="ml-2">상세보기</a></h6>
+      <h6 class="pl-4"><span class="badge badge-primary">중국출토문헌연구팀</span><a href="/people-ah.html" class="ml-2">상세보기</a></h6>
     <h6 class="mt-3"><span class="badge badge-dark">Overseas Advisory Committee</span>&nbsp; 해외자문위원</h6>
 	<ul>
     {% for author in site.advisors %}
       <li><a href={{ author[1].link.home }} target="_blank">{{ author[1].name }}</a>&nbsp; <a href={{ author[1].link.academia }} target="_blank"><span class="text-muted small">(Academia)</span></a></li>
     {% endfor %}
 	</ul>
-
-<h5 class="font-weight-bold spanborder mt-4"><span>상세 소개</span></h4>
-    <div class="row gap-y listrecent listrecent listauthor">
-    {% for author in site.authors %}
-        <div class="col-lg-6 mb-1">
-            <div class="p-4 border rounded">
-            <div class="row" id="{{ author[1].name }}">
-
-            <div class="col-md-3 mb-4 mb-md-0">
-                  <a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">
-                  <img alt="{{ author[1].name }}" src="{{ author[1].avatar }}" class="rounded-circle" height="80" width="80">
-                  </a>
-            </div>
-
-            <div class="col-md-9">
-                <h4 class="text-dark mb-1"><a class="text-dark" href="{{site.baseurl}}/author-{{ author[1].name | slugify }}"> {{ author[1].name-en }} &nbsp; {{ author[1].name-ko }} {% if author[1].name-cn %} &nbsp; {{ author[1].name-cn }}{% endif %}</a></h4>
-                {% if author[1].title-en %}
-                <div class="text-dark text-light mb-0">{{ author[1].title-en }}</div>
-                {% endif %}
-                {% if author[1].title-cn %}
-                <div class="text-dark text-light mb-0">{{ author[1].title-cn }}</div>
-                {% endif %}
-                <div class="text-dark text-light mb-0">{{ author[1].title }}</div>
-                <div class="mt-2">
-                  <a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">
-                      <small class="d-inline-block mt-1 mb-3 font-weight-normal">View Posts</small>
-                  </a>&nbsp;
-                  {% if author[1].sns.twitter %}
-                      <a target="_blank" href="{{ author[1].sns.twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>&nbsp;
-                  {% endif %}
-                  {% if author[1].sns.facebook %}
-                      <a target="_blank" href="{{ author[1].sns.facebook }}"><i class="fab fa-facebook-square text-muted" aria-hidden="true"></i></a>&nbsp;
-                  {% endif %}
-                  {% if author[1].sns.site %}
-                      <a target="_blank" href="{{ author[1].sns.site }}"><i class="fa fa-home text-muted" aria-hidden="true"></i></a>&nbsp;
-                  {% endif %}
-                </div>
-                {% if author[1].bio-en %}
-                <div class="mb-1"><p>{{ author[1].bio-en }}</p></div>
-                {% endif %}
-                {% if author[1].education-en %}
-                <div class="my-3 excerpt">
-                  {% for education in author[1].education-en %}
-                    <div class="ml-1"><span>&#8728;</span> {{ education }}</div>
-                  {% endfor %}
-                </div>
-                {% endif %}
-                {% if author[1].education-cn %}
-                <div class="my-3 excerpt">
-                  {% for education in author[1].education-cn %}
-                    <div class="ml-1"><span>&#8728;</span> {{ education }}</div>
-                  {% endfor %}
-                </div>
-                {% endif %}
-
-                <div class="mb-1"><p>{{ author[1].bio }}</p></div>
-                <div class="my-3 excerpt">
-                {% for education in author[1].education %}
-                  <div class="ml-1"><span>&#8728;</span> {{ education }}</div>
-                {% endfor %}
-                </div>
-                <div>
-                {% for interest in author[1].interest %}
-                  <span class="badge badge-success">{{ interest }}</span>
-                {% endfor %}
-                </div>
-            </div>
-
-            </div>
-            </div>
-        </div>
-    {% endfor %}
-    </div>
 </div>

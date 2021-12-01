@@ -37,7 +37,6 @@ sections:
       desc: "오늘날 법정 드라마만큼 흥미진진한 고대 근동의 법과 사람들의 세계로 안내합니다."
     
 authors:
-
     kang-hoogoo:
       name:     kang
       name-ko:  "강후구"
@@ -174,6 +173,7 @@ authors:
       #sns:
 
     kim-jungryol:
+      group:    "cet"
       name:     jrkim
       name-ko:  "김정열"
       name-cn:  "金正烈"
@@ -193,6 +193,7 @@ authors:
       bio: "중국 청동기시대 고고학과 고대사를 연구합니다. 특히 중국 초기국가의 형성과 작동 메커니즘에 대해 관심을 가지고 있습니다."
 
     kim-hyeok:
+      group:    "cet"
       name:     hkim
       name-ko:  "김 혁"
       name-en:  "KIM, Hyeok"
@@ -232,6 +233,7 @@ authors:
       #sns:
 
     park-jaebok:
+      group:    "cet"
       name:     jbpark
       name-ko:  "박재복"
       name-cn:  "攸好 朴載福"
@@ -292,6 +294,7 @@ authors:
       #  instagram:
 
     won-yongjoon:
+      group:    "cet"
       name:    won
       name-ko:  "원용준"
       name-en:  "WON, YongJoon"
@@ -327,6 +330,7 @@ authors:
       #sns:
 
     lee-sungryule:
+      group:    "cet"
       name:    srlee
       name-ko:  "이승율"
       name-en:  "LEE, Sungryule"
