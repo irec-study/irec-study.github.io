@@ -7,7 +7,7 @@ tags: [ Rome, article, sticky ]
 image: assets/images/post/trajan-statue.jpg
 ---
 
-<span class="text-muted" style="font-size:0.8em">(편집자 주) 반기현 연구위원의 국방일보 기고문 일부를 게재합니다. 전체 글은 국방일보 웹사이트에서 확인하실 수 있습니다.<a href="https://kookbang.dema.mil.kr/newsWeb/20211214/1/BBSMSTR_000000100139/view.do" target="_blank">(링크 클릭)</a></span>
+<span class="text-muted" style="font-size:0.8em">(편집자 주) 반기현 연구위원의 국방일보 기고문 일부를 게재합니다. 전체 글은 <a href="https://kookbang.dema.mil.kr/newsWeb/20211214/1/BBSMSTR_000000100139/view.do" target="_blank">국방일보 웹사이트</a>에서 확인하실 수 있습니다.</span>
 
 ----
 
