@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;중국 초기국가시기 청동원료의 생산과 유통&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/early-china-ingot.jpg
 ---
 
