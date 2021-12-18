@@ -3,7 +3,7 @@ layout: post
 title: "로마 제국 군대는 왜 강력했는가? (국방일보 기고)"
 author: ban-keehyun
 categories: [ article ]
-tags: [ Rome, article, sticky ]
+tags: [ Rome, article ]
 image: assets/images/post/trajan-statue.jpg
 ---
 
