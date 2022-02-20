@@ -3,7 +3,7 @@ layout: post
 title: "공동학술대회  &#10092;중국 고대 철학 연구를 위한 새로운 자료들&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Philosophy, Event, sticky ]
+tags: [ China, Philosophy, Event ]
 image: assets/images/post/guodian-chu-slips.jpg
 ---
 
