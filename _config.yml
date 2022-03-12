@@ -396,11 +396,18 @@ advisors:
         home: https://www.kcl.ac.uk/people/dominic-rathbone
         academia: https://orcid.org/0000-0002-5465-5534
 
+    edward-shaughnessy:
+      name: "Edward L. Shaughnessy"
+      link:
+        home: https://ealc.uchicago.edu/people/edward-l-shaughnessy-phd
+        academia: https://chicago.academia.edu/EdwardShaughnessy
+
     norman-yoffee:
       name: "Norman Yoffee"
       link:
         home: https://sites.google.com/a/umich.edu/norman-yoffee/
         academia: https://umich.academia.edu/NormanYoffee
+        
 
     
  
