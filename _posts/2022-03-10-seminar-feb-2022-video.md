@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;갑골문, 어떻게 공부하고 해독할까?&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/oracle-bone2.jpg
 ---
 
