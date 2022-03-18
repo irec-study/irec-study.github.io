@@ -371,6 +371,12 @@ advisors:
       link:
         home: https://www.orinst.ox.ac.uk/people/john-baines
         academia: https://www.thebritishacademy.ac.uk/fellows/john-baines-FBA/
+    
+    lothar-von-falkenhausen:
+      name: "Lothar von Falkenhausen"
+      link:
+        home: https://arthistory.ucla.edu/faculty-profiles/lothar-von-falkenhausen/
+        academia: https://ucla.academia.edu/LotharvonFalkenhausen
 
     yosef-garfinkel:
       name: "Yosef Garfinkel"
@@ -401,6 +407,17 @@ advisors:
       link:
         home: https://ealc.uchicago.edu/people/edward-l-shaughnessy-phd
         academia: https://chicago.academia.edu/EdwardShaughnessy
+
+    olivier-venture:
+      name: "Olivier VENTURE"
+      link:
+        home: https://www.ephe.psl.eu/ecole/nos-enseignants-chercheurs/olivier-venture
+        academia: https://ephe-sorbonne.academia.edu/OlivierVenture
+
+    han-wei:
+      name: "Han Wei (韩巍)"
+      link:
+        home: https://zggds.pku.edu.cn/cyjj/57598.htm
 
     norman-yoffee:
       name: "Norman Yoffee"

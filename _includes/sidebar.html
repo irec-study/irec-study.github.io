@@ -18,7 +18,11 @@
     <h6 class="mt-3"><span class="badge badge-dark">해외자문위원</span></h6>
     <ul>
     {% for author in site.advisors %}
-      <li><a href={{ author[1].link.home }} target="_blank">{{ author[1].name }}</a>&nbsp; <a href={{ author[1].link.academia }} target="_blank"><span class="text-muted small">(Academia)</span></a></li>
+      <li><a href={{ author[1].link.home }} target="_blank">{{ author[1].name }}</a>&nbsp;
+      {% if author[1].link.academia %}
+        <a href={{ author[1].link.academia }} target="_blank"><span class="text-muted small">(Academia)</span></a>
+      {% endif %}
+      </li>
     {% endfor %}
     </ul>
   </li>
