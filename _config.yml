@@ -372,12 +372,6 @@ advisors:
         home: https://www.orinst.ox.ac.uk/people/john-baines
         academia: https://www.thebritishacademy.ac.uk/fellows/john-baines-FBA/
     
-    lothar-von-falkenhausen:
-      name: "Lothar von Falkenhausen"
-      link:
-        home: https://arthistory.ucla.edu/faculty-profiles/lothar-von-falkenhausen/
-        academia: https://ucla.academia.edu/LotharvonFalkenhausen
-
     yosef-garfinkel:
       name: "Yosef Garfinkel"
       link:
@@ -390,11 +384,31 @@ advisors:
         home: https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1%5Buid%5D=joannes
         academia: https://univ-paris1.academia.edu/FJoann%C3%A8s
 
+    han-wei:
+      name: "Han Wei (韓巍)"
+      link:
+        home: https://zggds.pku.edu.cn/cyjj/57598.htm
+
     feng-li:
       name: "Feng Li"
       link:
         home: http://ealac.columbia.edu/feng-li/
         academia: https://columbia.academia.edu/LiFeng
+
+    liu-zhao:
+      name: "Liu Zhao (劉釗)"
+      link:
+        home: https://www.x-mol.com/university/faculty/264833
+
+    nishiyama:
+      name: "NISHIYAMA Hisashi (西山尙志)"
+      link:
+        home: https://researchmap.jp/nishiyamahisashi
+
+    onishi:
+      name: "ONISHI Katsuya (大西克也)"
+      link:
+        home: https://researchmap.jp/read0067850
 
     dominic-rathbone:
       name: "Dominic Rathbone"
@@ -414,10 +428,11 @@ advisors:
         home: https://www.ephe.psl.eu/ecole/nos-enseignants-chercheurs/olivier-venture
         academia: https://ephe-sorbonne.academia.edu/OlivierVenture
 
-    han-wei:
-      name: "Han Wei (韩巍)"
+    lothar-von-falkenhausen:
+      name: "Lothar von Falkenhausen"
       link:
-        home: https://zggds.pku.edu.cn/cyjj/57598.htm
+        home: https://arthistory.ucla.edu/faculty-profiles/lothar-von-falkenhausen/
+        academia: https://ucla.academia.edu/LotharvonFalkenhausen
 
     norman-yoffee:
       name: "Norman Yoffee"
