@@ -378,16 +378,16 @@ advisors:
         home: https://archaeology.huji.ac.il/people/yosef-garfinkel
         academia: https://huji.academia.edu/YosefGarfinkel
 
+    han-wei:
+      name: "Han Wei (韓巍)"
+      link:
+        home: https://zggds.pku.edu.cn/cyjj/57598.htm
+
     francis-joannes:
       name: "Francis Joannes"
       link:
         home: https://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1%5Buid%5D=joannes
         academia: https://univ-paris1.academia.edu/FJoann%C3%A8s
-
-    han-wei:
-      name: "Han Wei (韓巍)"
-      link:
-        home: https://zggds.pku.edu.cn/cyjj/57598.htm
 
     feng-li:
       name: "Feng Li"
