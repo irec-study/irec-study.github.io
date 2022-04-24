@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "강영영상 &#10092;금석학(金石學)의 한 축(軸): 상주(商周) 금문(金文)의 이해&#10093;"
+title: "강연영상 &#10092;금석학(金石學)의 한 축(軸): 상주(商周) 금문(金文)의 이해&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
 tags: [ China, Forum ]
