@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;죽간(竹簡)으로 보는 고대 중국의 점술과 사상&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/guodian-slips.jpg
 ---
 
