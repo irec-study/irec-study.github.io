@@ -3,7 +3,7 @@ layout: post
 title: "한국고대근동학회(KANES: Korean Association for Ancient Near Eastern Studies) 창립총회 및 학술대회"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ Mesopotamia, event, sticky ]
+tags: [ Mesopotamia, event ]
 image: assets/images/post/KANES-kickoff.jpg
 ---
 
