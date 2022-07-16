@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;야누스의 얼굴을 지닌 최초의 유가&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/janus-confucianism.jpg
 ---
 
