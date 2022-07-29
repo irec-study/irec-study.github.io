@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;역사적 기억과 기억된 역사&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ Egypt, Forum, sticky ]
+tags: [ Egypt, Forum ]
 image: assets/images/post/famine-stela.jpg
 ---
 
