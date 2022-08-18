@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;국립세계문자박물관 소장 '둥근 방주 토판'&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ Mesopotamia, Forum, sticky ]
+tags: [ Mesopotamia, Forum ]
 image: assets/images/post/irving-finkel.jpg
 ---
 
