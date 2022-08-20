@@ -3,7 +3,7 @@ layout: post
 title: "미샤룸 반포와 없어진 채무증서"
 author: kim-ari
 categories: [ "고대-근동의-법과사람" ]
-tags: [ Mesopotamia, sticky ] 
+tags: [ Mesopotamia ] 
 image: assets/images/post/broken-tablet.jpg
 ---
 
