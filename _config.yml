@@ -328,6 +328,24 @@ authors:
       bio-en: "Focusing on interpretation of ancient Egyptian texts into Korean and comparative studies on mythologies including ancient Egyptian myths"
       #sns:
 
+    lee-kwangsu:
+      name:     kslee 
+      name-ko:  "이광수"
+      name-en:  "LEE, Kwangsu"
+      #role:
+      title:    "부산외국어대학교 인도학과 교수"
+      title-en: "Professor, Busan University of Foreign Studies"
+      education:
+        - "인도 델리대학교 역사학과 (석사, 박사)"
+      education-en:
+        - "Department of History / University of Delhi (M.A., Ph.D.)"
+      interest: ["인도사", "인도고대종교사", "신화와 역사", "인도인의 역사 인식", "인도 사진사"]
+      #site:
+      avatar: /assets/images/people/kslee.jpg
+      bio: "인도고대사를 전공하고, 특히 인도종교사를 오랫동안 연구해왔다. 인도인의 역사 인식을 토대로 하여 신화와 역사의 관계를 향후 연구하고자 한다. 힌두교-불교의 세계관의 연장선에서 본질과 이미지에 대한 철학적 관심이 많고 그 위에서 인도 사진사에 관한 연구를 하는 중이다."
+      bio-en: "History of India, Myth and Reality in Indian History, Hinduism and Buddhism, Indian Historical Consciousness, Photography History in India."
+      #sns:
+
     lee-sungryule:
       group:    "cet"
       name:    srlee
