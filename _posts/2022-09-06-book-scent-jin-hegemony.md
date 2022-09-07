@@ -3,7 +3,7 @@ layout: post
 title:  "&#10092;진국패업: 진의 분봉에서 문공의 칭패까지&#10093;"
 author: shim-jaehoon
 categories: [ "책의향기-고대의향연" ] 
-tags: [ books, review, sticky ] 
+tags: [ books, review ] 
 image: assets/images/post/jin-hegemony1.jpg
 ---
 
