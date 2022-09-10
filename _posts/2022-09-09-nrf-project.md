@@ -21,6 +21,9 @@ image: assets/images/post/origin-stream.jpg
 
 ----
 
-<object data="/assets/files/IREC_2022_NRF_project.pdf" width="730" height="1000" type='application/pdf'></object>
+<span class="muted"><a href="/assets/files/IREC_2022_NRF_project.pdf" target="_blank">한국연구재단 일반공동연구지원사업 연구계획서</a></span>
+<br>
+<object data="/assets/files/IREC_2022_NRF_project.pdf" width="100%" height="800px" type='application/pdf'>
+</object>
 
 <br><br>
