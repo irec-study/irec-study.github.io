@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;고대 중국의 ‘천天’은 ‘상제上帝’와 동일한 개념인가?&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/heaven-chinese-high-lord.jpg
 ---
 
