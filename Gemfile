@@ -15,7 +15,6 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap', '>= 1.4.0'
     gem 'jekyll-paginate'
     gem 'jekyll-seo-tag'
-    gem "jekyll-pdf-embed"
 end
 gem "kramdown", ">= 2.3.0"
 gem "kramdown-parser-gfm"

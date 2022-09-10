@@ -21,6 +21,6 @@ image: assets/images/post/origin-stream.jpg
 
 ----
 
-{% pdf "/assets/files/IREC_2022_NRF_project.pdf" %}
+<object data="/assets/files/IREC_2022_NRF_project.pdf" width="730" height="1000" type='application/pdf'></object>
 
 <br><br>

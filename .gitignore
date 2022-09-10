@@ -3,8 +3,8 @@
 .bundle
 
 ## Jekyll stuff
-#/_site/
-#_site/
+/_site/
+_site/
 .jekyll-metadata
 .jekyll-cache
 .jekyll

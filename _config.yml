@@ -17,7 +17,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 #  - jekyll-seo-tag
-  - jekyll-pdf-embed # https://github.com/MihajloNesic/jekyll-pdf-embed
   
 sections:
     1:
