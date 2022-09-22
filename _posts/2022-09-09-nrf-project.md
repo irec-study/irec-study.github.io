@@ -3,7 +3,7 @@ layout: post
 title:  "문명의 시원, 그 연구의 여정과 실제"
 author: shim-jaehoon
 categories: [ "연구소소식" ] 
-tags: [ notice, sticky ] 
+tags: [ notice ] 
 image: assets/images/post/origin-stream.jpg
 ---
 
