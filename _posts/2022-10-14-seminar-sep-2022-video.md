@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;함무라비 법전&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ Mesopotamia, Forum, sticky ]
+tags: [ Mesopotamia, Forum ]
 image: assets/images/post/code-of-hammurabi-louvre.jpg
 ---
 
