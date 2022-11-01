@@ -4,7 +4,7 @@ title: "동아시아출토문헌연구회 월례발표회 (11월) &#10092;戰國
 author: ghim-gwanglim
 categories: [ Forum ]
 tags: [ China, Forum, sticky ]
-image: assets/images/post/bamboo-manuscript-xinian2.jpg
+image: assets/images/post/bamboo-manuscript-xinian3.jpg
 ---
 
 안녕하세요. 동아시아출토문헌연구회 11월 월례발표회가 금주 토요일에 있습니다. 
