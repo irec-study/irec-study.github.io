@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "강연영상 &#10092;한국에서 고대근동 문헌을 번역하고 해설하는 일에 대하여 - 우가릿 바알신화의 예&#10093;"
-author: ghim-gwanglim
+author: shim-jaehoon
 categories: [ Forum ]
 tags: [ Mesopotamia, Forum ]
 image: assets/images/post/ugarit-study.jpg
