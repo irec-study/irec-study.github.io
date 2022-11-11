@@ -3,7 +3,7 @@ layout: post
 title: "동아시아출토문헌연구회 월례발표회 (11월) &#10092;戰國 楚簡 역사서 『繫年』의 주요 형식과 성격&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/bamboo-manuscript-xinian3.jpg
 ---
 
