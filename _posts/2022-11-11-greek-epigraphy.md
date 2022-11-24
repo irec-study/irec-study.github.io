@@ -3,7 +3,7 @@ layout: post
 title: "2022년 11월 정기포럼 안내 &#10092;고고미술사에서 보는 그리스 금석학&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ Greece, Europe, Forum, sticky ]
+tags: [ Greece, Europe, Forum ]
 image: assets/images/post/base-euthykartides.jpg
 ---
 
