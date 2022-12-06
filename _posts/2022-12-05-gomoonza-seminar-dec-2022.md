@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "동아시아출토문헌연구회 월례발표회 (12월) &#10092;청화간『封許之命』譯注&#10093;"
+title: "동아시아출토문헌연구회 월례발표회 (12월) &#10092;청화간 『封許之命』譯注&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
 tags: [ China, Forum, sticky ]
@@ -17,5 +17,5 @@ image: assets/images/post/tsinghua-slips.jpg
 - 발표: 신세리 (조선대 국제문화연구원)
 - 장소: 성균관대학교 퇴계인문관 31603호 (6층)
 - Zoom link: (조만간 업데이트 하겠습니다)
-- 주제: __청화간『封許之命』譯注__ 
+- 주제: __청화간 『封許之命』譯注__ 
  
