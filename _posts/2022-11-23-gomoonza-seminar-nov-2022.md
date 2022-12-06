@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;戰國 楚簡 역사서 『繫年』의 주요 형식과 성격&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/xinian-back.jpg
 ---
 
