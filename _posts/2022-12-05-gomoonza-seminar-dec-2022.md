@@ -3,7 +3,7 @@ layout: post
 title: "동아시아출토문헌연구회 월례발표회 (12월) &#10092;『淸華大學藏戰國竹簡(伍)』「封許之命」 釋注&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/tsinghua-slips.jpg
 ---
 
