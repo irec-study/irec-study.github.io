@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;고고미술사에서 보는 그리스 금석학&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ Greece, Europe, Forum, sticky ]
+tags: [ Greece, Europe, Forum ]
 image: assets/images/post/greek-monument.jpg
 ---
 
