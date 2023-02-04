@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "강연영상 &#10092;고대 그리스 산문과 역사서술의 탄생&#10093;"
+title: "강연영상 &#10092;금석학(epigraphy)과 고대 로마의 역사서술&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
 tags: [ Rome, Forum ]
