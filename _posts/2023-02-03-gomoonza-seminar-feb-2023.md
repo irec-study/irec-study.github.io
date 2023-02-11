@@ -3,7 +3,7 @@ layout: post
 title: "동아시아출토문헌연구회 월례발표회 (2월) &#10092;고대 중국의 문헌 전통, 그 형성과 전개에 대한 비판적 접근: 『논어』의 경우&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/pyongyang-analects.jpg
 ---
 
