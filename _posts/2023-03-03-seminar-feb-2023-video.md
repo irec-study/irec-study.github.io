@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;그리스인의 역사서술에 나타난 로마의 지배와 군대&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ Rome, Forum, sticky ]
+tags: [ Rome, Forum ]
 image: assets/images/post/roman-greek-documents.jpg
 ---
 
