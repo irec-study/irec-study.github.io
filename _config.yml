@@ -172,6 +172,25 @@ authors:
       bio: "전국시대의 분열과 진한제국의 통일, 그리고 세계의 다양한 고대제국들에 관심 있습니다."
       #sns:
 
+    kim-jungnam:
+      group:    "cet"
+      name:     jnkim
+      name-ko:  "김정남"
+      name-cn:  "金正男"
+      name-en:  "KIM, JungNam"
+      title:    "동국대학교 WISE캠퍼스 중어중문학과 조교수"
+      title-cn:    "東國大學 WISE校園 中文系 助教授"
+      education:
+        - "중국 푸단대학교 중어중문학과 (박사)"
+        - "서울대학교 중어중문학과 (석사)"
+        - "한양대학교 중어중문학과 (학사)"
+      education-cn:
+        - "復旦大學 中國語言文學系 文學博士"
+        - "首爾大學 中文系(碩士)"
+        - "漢陽大學 中文系(學士)"
+      avatar: /assets/images/people/jnkim.jpg
+      bio: "戰國文字와 戰國時代 楚簡을 전공하였으며 戰國時代 이후로 전개된 급격한 한자 구조 변화를 토대로 戰國時代의 언어 습관을 연구하고 있습니다."
+
     kim-jungryol:
       name:     jrkim
       name-ko:  "김정열"
