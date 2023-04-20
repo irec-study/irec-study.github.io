@@ -3,7 +3,7 @@ layout: post
 title:  "고대문명 연구의 다양한 여정 - 고대문명연구소 제1회 학술대회"
 author: shim-jaehoon
 categories: [ "연구소소식" ] 
-tags: [ notice, event ] 
+tags: [ notice, event, sticky ] 
 image: assets/images/post/IREC-conf2023-cover.jpg
 ---
 
