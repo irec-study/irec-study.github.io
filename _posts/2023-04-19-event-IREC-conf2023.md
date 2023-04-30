@@ -36,7 +36,7 @@ image: assets/images/post/IREC-conf2023-cover.jpg
 
 ----
 
-<span class="muted"><a href="/assets/files/IREC-conf2023-proceedings.pdf" target="_blank">고대문명연구소 제1회 학술대회 자료집</a></span>
+<span class="muted"><a href="/assets/files/IREC-conf2023-proceedings-final.pdf" target="_blank">고대문명연구소 제1회 학술대회 자료집</a></span>
 <br>
 <object data="/assets/files/IREC-conf2023-proceedings.pdf" width="100%" height="800px" type='application/pdf'>
     <embed src="/assets/files/IREC-conf2023-proceedings.pdf" width="100%" height="800px" type='application/pdf'/>
