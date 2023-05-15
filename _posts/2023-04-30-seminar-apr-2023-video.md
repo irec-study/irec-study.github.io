@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;고대중국 역사기록의 시작과 전개 : 신자료를 중심으로&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/ancient-china-historical-doc.jpg
 ---
 
