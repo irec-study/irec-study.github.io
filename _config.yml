@@ -117,6 +117,22 @@ authors:
       avatar: /assets/images/people/kwkim.jpg
       bio: "구약성서를 인문학(철학, 정치, 역사)의 관점에서 연구하는 일에 관심이 있습니다. 메소포타미아와 시리아 팔레스타인 지역의 문헌과 고고학에 대한 공부를 꾸준히 하고 있습니다. <a href='https://independent.academia.edu/KoowonKim' target='_blank'>academia.edu/KoowonKim</a>"
 
+    kim-seokjin:
+      group:    "cet"
+      name:     sjkim
+      name-ko:  "김석진"
+      name-en:  "KIM, SeokJin"
+      name-cn:  "金錫鎭"
+      title:    "단국대학교 사학과 강사"
+      title-cn: "檀國大學 歷史系 講師"
+      education:
+        - "단국대학교 사학과 (박사, 석사, 학사)"
+      education-cn:
+        - "檀國大學 歷史系 (學士, 碩士, 博士)"
+      interest: ["고대중국", "사학사", "문헌사", "문자학", "문헌학"]
+      avatar: /assets/images/people/sjkim.jpg
+      bio: "전래ㆍ출토자료를 활용하여 고대중국의 사학사와 문헌사를 연구합니다. 고대 동아시아인들이 역사(실재성 정보와 기억)를 어떻게 구현하고(문자, 기록, 구술, 매체, 문서, 책) 활용했는지(기능ㆍ용도)에 관심이 있습니다."
+
     kim-ari:
       name:     arkim
       name-ko:  "김아리"
@@ -257,7 +273,7 @@ authors:
       name-cn:  "攸好 朴載福"
       name-en:  "PARK, Jaebok"
       title:    "경동대학교 한국어교원학과 부교수"
-      title-cn: "京東大學校 韓國語敎員學科 副教授"
+      title-cn: "京東大學 韓國語敎員學科 副教授"
       education:
         - "중국 북경대학교 고고문박학원 역사학 (석사, 박사)"
         - "강원대학교 축산학과 (학사)"
@@ -288,6 +304,43 @@ authors:
       avatar: /assets/images/people/ban.jpg
       bio: "로마제국의 군대와 군사전략에 대해 연구하고 가르치고 있습니다."
       #sns:
+
+    bin-dongchoel:
+      group:    "cet"
+      name:     bin 
+      name-ko:  "빈동철"
+      name-cn:  "賓東哲"
+      name-en:  "BIN, Dongchoel"
+      title:    "고려대학교 철학연구소 연구교수"
+      title-cn:    "高麗大學 哲學硏究所 硏究敎授"
+      education:
+        - "미국 인디애나대학교 (박사)"
+        - "고려대학교 철학과 (석사, 학사)"
+      education-cn:
+        - "美國 印第安納大學布魯明頓分校 (博士)"
+        - "高麗大學 哲學系 (碩士, 學士)"
+      avatar: /assets/images/people/bin.jpg
+      bio: ""
+
+    sung-sihun:
+      group:    "cet"
+      name:     sung 
+      name-ko:  "성시훈"
+      name-en:  "SUNG, Sihun"
+      name-cn:  "成始勳"
+      title:    "성균관대학교 유학대학 초빙교수"
+      title-cn: "成均館大學 儒學大學 招聘敎授"
+      education:
+        - "성균관대학교 유학과 (박사)"
+        - "성균관대학교 유학과 (석사)"
+        - "성균관대학교 유학⋅동양학부 (학사)"
+      education-cn:
+        - "成均館大學 儒學科 哲學博士"
+        - "成均館大學 儒學科 (碩士)"
+        - "成均館大學 儒學⋅東洋學部 (學士)"
+      interest: ["유교", "경학", "상서", "출토문헌", "중국고대사상사"]
+      avatar: /assets/images/people/sung.jpg
+      bio: "문헌자료와 출토자료를 통해 중국고대사상사를 연구하고 있습니다. 특히 선진~진한시대 사이에 이뤄진 경전 형성의 초기 단계에 깊은 관심을 가지고 있습니다."
 
     shim-jaehoon:
       name:     shim
