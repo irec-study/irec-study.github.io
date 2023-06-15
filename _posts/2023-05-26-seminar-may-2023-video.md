@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;『사기』 대완열전은 왜 서역열전이라 이름하지 않았을까?&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/zhang_qian.jpg
 ---
 
