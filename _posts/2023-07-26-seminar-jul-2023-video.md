@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;고대 중국의 텍스트 형성과 전승: 『논어』의 사례연구(case study)를 통한 비판적 접근&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/excavated-analects.jpg
 ---
 
