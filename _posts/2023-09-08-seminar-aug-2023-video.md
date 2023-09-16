@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;200년 고대 근동 연구사 세 번의 거대한 변혁&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ Mesopotamia, Forum, sticky ]
+tags: [ Mesopotamia, Forum ]
 image: assets/images/post/louvre-museum-assyria.jpg
 ---
 
