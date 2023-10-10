@@ -3,7 +3,7 @@ layout: post
 title:  "인문사회연구소지원사업 선정"
 author: shim-jaehoon
 categories: [ "연구소소식" ] 
-tags: [ notice, sticky ] 
+tags: [ notice ] 
 image: assets/images/post/river-delta.jpg
 ---
 
