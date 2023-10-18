@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;이스라엘·팔레스틴 고고학사: 정치적, 종교적, 문화적 논쟁들&#10093;"
 author: kim-ari
 categories: [ Forum ]
-tags: [ Mesopotamia, Forum, sticky ]
+tags: [ Mesopotamia, Forum ]
 image: assets/images/post/israel-tel-site.jpg
 ---
 
