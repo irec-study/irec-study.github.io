@@ -117,6 +117,26 @@ authors:
       avatar: /assets/images/people/kwkim.jpg
       bio: "구약성서를 인문학(철학, 정치, 역사)의 관점에서 연구하는 일에 관심이 있습니다. 메소포타미아와 시리아 팔레스타인 지역의 문헌과 고고학에 대한 공부를 꾸준히 하고 있습니다. <a href='https://independent.academia.edu/KoowonKim' target='_blank'>academia.edu/KoowonKim</a>"
 
+    hogue-david:
+      group:    "cet"
+      name:     hogue
+      name-ko:  "데이비드 호그"
+      name-en:  "Hogue, David"
+      name-cn:  "何德威"
+      title:    "고대문명연구소 해외학술 전문위원"
+      title-cn: "古代文明研究所 海外學術 專門委員<br>IREC Special Advisor for Foreign Scholarship"
+      education:
+        - "미국 시카고대학교 동아시아언어문명학과 (박사)"
+        - "중국 남경대학 문학원 (석사)"
+        - "미국 프린스턴대학교 영문학과 (학사)"
+      education-cn:
+        - "美國 芝加哥大學 東亞語言與文明學 (博士) University of Chicago East Asian Languages and Civilizations (Ph.D.)"
+        - "中國 南京大學 文學院 (碩士) Nanjing University Literature School (M.A.)"
+        - "美國 普林斯頓 英美文學 (學士) Princeton University Department of English (B.A.)"
+      interest: [""]
+      avatar: /assets/images/people/hogue.jpg
+      bio: "專攻於中國傳世文獻與出土文獻,尤其專注於戰國時期以及秦漢時期,主要研究方向為歷史編纂學、敘事文獻和思想史.<br>I specialize in early Chinese transmitted and excavated textual sources, with a particular focus on the Warring States and Qin-Han periods. My main areas of research are historiography, narrative texts, and intellectual history.<br>고대 중국의 전래 · 출토 문헌을 전공했고 전국(戰國) 시대 및 진한(秦漢) 시대를 중심으로 연구하고 있습니다. 주요 연구 방향은 역사 편찬학, 서사 문학과 사상의 역사입니다."
+
     kim-seokjin:
       group:    "cet"
       name:     sjkim
