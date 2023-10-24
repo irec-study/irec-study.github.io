@@ -82,13 +82,13 @@ authors:
       name:     ghim
       name-ko:  "김광림"
       name-en:  "GHIM, Gwang-lim"
-      title:    "단국대학교 사학과 석박사통합과정 / 네이버 머신러닝엔지니어"
-      title-en: "PhD student, Dankook University / Machine Learning Engineer, Naver Corp."
+      title:    "고대문명연구소 DB 담당 전문위원<br>네이버클라우드 머신러닝엔지니어"
+      title-en: "IREC Special Advisor for DB<br>Machine Learning Engineer, Naver Cloud"
       education:
-        - "단국대학교 사학과 (석박사통합과정)"
+        - "단국대학교 사학과 (박사 수료)"
         - "KAIST 전산학과 (학사)"
       education-en:
-        - "Dankook University (Ph.D. student, History)"
+        - "Dankook University (Ph.D. candidate, History)"
         - "Korea Advanced Institute of Science and Technology(KAIST) (B.S., Computer Science)"
       interest: ["중국고대사", "선진시대", "데이터역사학", "Early China", "Pre-Qin", "Digital History", "Digital Humanities", "Data History Science"]
       #site:
