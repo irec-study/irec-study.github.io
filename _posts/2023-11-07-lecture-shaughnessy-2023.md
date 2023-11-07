@@ -4,7 +4,7 @@ title:  "쇼너시 시카고대 교수 초청 강연: &#10092;고대 중국의 �
 author: shim-jaehoon
 categories: [ "연구소소식" ] 
 tags: [ china, lecture, event, sticky ] 
-image: assets/images/post/shaughnessy-lecture.jpg
+image: assets/images/post/shaughnessy-lecture-small.jpg
 ---
 
 거의 백발이 된 제자가 오래전에 백발이 된 스승을 초청합니다. 고대문명연구소 설립 3주년과 인문사회연구소지원사업 선정을 축하하기 위해서 시카고대학의 에드워드 쇼너시 교수([홈페이지](https://ealc.uchicago.edu/people/edward-l-shaughnessy-phd), [위키백과 소개](https://en.wikipedia.org/wiki/Edward_L._Shaughnessy))가 11월 14-18일까지 한국을 방문합니다. 단국대에서 &#10092;주역&#10093;, 서울대에서 고문자학, 경북대에서 &#10092;시경&#10093;을 주제로 세 번의 중국어 강연이 예정되어 있습니다.
