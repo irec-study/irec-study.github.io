@@ -3,7 +3,7 @@ layout: post
 title:  "쇼너시 시카고대 교수 초청 강연: &#10092;고대 중국의 문자와 문헌&#10093;"
 author: shim-jaehoon
 categories: [ "연구소소식" ] 
-tags: [ china, lecture, event, sticky ] 
+tags: [ china, lecture, event ] 
 image: assets/images/post/shaughnessy-lecture-small.jpg
 ---
 
