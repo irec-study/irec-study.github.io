@@ -422,6 +422,24 @@ authors:
       bio-en: "Focusing on interpretation of ancient Egyptian texts into Korean and comparative studies on mythologies including ancient Egyptian myths"
       #sns:
 
+    yun-sungduk:
+      name:     yun   	
+      name-ko:  "윤성덕"
+      name-en:  "YUN, Sungduk"
+      title:    "연세대학교 기독교문화연구소 연구교수"
+      title-en: "Research Professor, Institute of Christianity and Korean Culture, Yonsei University"
+      education:
+        - "미국 히브리 유니온 칼리지, 히브리 성서와 고대근동학과 (박사)"
+        - "이스라엘 예루살렘 히브리대학교 유대민족사학과 (석사)"
+        - "연세대학교 신과대학 신학과 (학사)"
+      education-en:
+        - "Hebrew Union College-Jewish Institute of Religion (Ph.D.)"
+        - "Hebrew University of Jerusalem (M.A.)"
+        - "Yonsei Univeristy (B.A.)"
+      interest: []
+      avatar: /assets/images/people/yun.jpg
+      bio: "히브리 성서와 고대근동학을 주로 공부하고, 랍비 유대교 사상에 큰 관심을 가지고 있습니다. 최근에는 고대 서아시아 지혜 문학 중 논쟁 관련 문학작품들을 연구하고 있습니다."
+
     lee-kwangsu:
       name:     kslee 
       name-ko:  "이광수"
@@ -457,6 +475,22 @@ authors:
       interest: ["유가", "도가", "제자백가", "출토문헌", "중국철학", "정치철학"]
       avatar: /assets/images/people/srlee.jpg
       bio: "유가·도가 등 중국고대철학을 출토문헌과 전래문헌을 비교하는 방법으로 연구해 왔습니다. 최근에는 주로 동아시아 정치철학 분야에 관심을 가지고 연구를 진행하고 있습니다."
+      
+    joo-wonjun:
+      name:     joo   	
+      name-ko:  "주원준"
+      name-en:  "JOO, Wonjun"
+      title:    "한님성서연구소 수석연구원"
+      title-en: "Senior Researcher, Hannim Biblical Institute"
+      education:
+        - "독일 뷔르츠부르크 대학교 가톨릭 신학부 구약학 및 고대근동언어 (석사, 박사)"
+        - "서강대학교 경영학과 (학사)"
+      education-en:
+        - "University of Würzburg, Faculty of Catholic Theology (Lic.Theol. Dr.Theol.)"
+        - "Sogang Univeristy (B.B.A)"
+      interest: []
+      avatar: /assets/images/people/joo.jpg
+      bio: "구약학, 고대근동학, 평신도 신학에 관심이 있습니다. 최근에는 고대 이스라엘의 종교와 신학을 설명하는 일과 고대 문헌의 번역을 진행중입니다."
 
     jeong-choongwon:
       name:   jeong
