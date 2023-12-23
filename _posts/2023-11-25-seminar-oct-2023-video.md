@@ -3,7 +3,7 @@ layout: post
 title: "강연영상 &#10092;나일 강을 따라 천 마일: 이집트학의 발전과 과제&#10093;"
 author: shim-jaehoon
 categories: [ Forum ]
-tags: [ Egypt, Forum, sticky ]
+tags: [ Egypt, Forum ]
 image: assets/images/post/nile-river2.jpg
 ---
 
