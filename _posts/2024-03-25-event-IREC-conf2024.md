@@ -4,7 +4,7 @@ title:  "&#10092;고대문명 형성의 물질적, 정신적 토대&#10093; - �
 author: shim-jaehoon
 categories: [ "연구소소식" ] 
 tags: [ notice, event, sticky ] 
-image: assets/images/post/IREC-conf2024-cover.jpg
+image: assets/images/post/IREC-conf2024-cover2.jpg
 ---
 
 단국대 고대문명연구소가 두 번째 학술대회를 개최합니다. 2020년 9월 23일 “인더스 문명 연구 100년: 쟁점과 연구과제”(김용준)라는 제목의 제1회 월례 정기포럼으로 첫 삽을 뜬지 3년 반만입니다. <span class="text-muted">([제42회까지의 강연과 토론은 고대문명연구소 유튜브에 업로드되어 있습니다.](https://www.youtube.com/@-irecstudy-5013/playlists))</span>
