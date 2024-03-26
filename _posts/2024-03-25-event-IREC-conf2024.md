@@ -36,7 +36,7 @@ image: assets/images/post/IREC-conf2024-cover.jpg
 
 
 ----
-<!--
+
 <span class="muted"><a href="/assets/files/IREC-conf2024-proceedings-final.pdf" target="_blank">고대문명연구소 제2회 학술대회 자료집</a></span>
 <br>
 <object data="/assets/files/IREC-conf2024-proceedings-final.pdf" width="100%" height="800px" type='application/pdf'>
@@ -44,4 +44,4 @@ image: assets/images/post/IREC-conf2024-cover.jpg
 </object>
 
 <br><br>
--->
+
