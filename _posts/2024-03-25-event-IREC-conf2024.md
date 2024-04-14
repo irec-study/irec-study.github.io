@@ -3,7 +3,7 @@ layout: post
 title:  "&#10092;고대문명 형성의 물질적, 정신적 토대&#10093; - 고대문명연구소 제2회 학술대회"
 author: shim-jaehoon
 categories: [ "연구소소식" ] 
-tags: [ notice, event, sticky ] 
+tags: [ notice, event ] 
 image: assets/images/post/IREC-conf2024-cover2.jpg
 ---
 
