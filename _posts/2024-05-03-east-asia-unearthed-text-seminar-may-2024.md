@@ -7,7 +7,8 @@ tags: [ China, Forum, sticky ]
 image: assets/images/post/yin-ruins-transcript.jpg
 ---
 
-안녕하세요. 동아시아출토문헌연구회 5월 월례발표회가 금주 토요일에 있습니다. 
+안녕하세요. 동아시아출토문헌연구회 5월 월례발표회가 다음주 토요일에 있습니다. 
+
 온라인으로 진행되며 관심있는 분은 누구든 참석하실 수 있습니다. 
 
 ### 5월 월례발표회 안내
