@@ -3,7 +3,7 @@ layout: post
 title: "동아시아출토문헌연구회 월례발표회 (5월) &#10092;은허문자병편(殷虛文字丙編)&#10093;096~101역주(譯註)"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/yin-ruins-transcript.jpg
 ---
 
