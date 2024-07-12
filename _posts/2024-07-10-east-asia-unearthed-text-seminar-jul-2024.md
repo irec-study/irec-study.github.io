@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "동아시아출토문헌연구회 월례발표회 (7월) &#10092;『戰國文字通論』과 전국문자(戰國文字) 이야기&#10093;
+title: "동아시아출토문헌연구회 월례발표회 (7월) &#10092;『戰國文字通論』과 전국문자(戰國文字) 이야기&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum ]
+tags: [ China, Forum, sticky ]
 image: assets/images/post/text-warring-states-period.jpg
 ---
 
-안녕하세요. 동아시아출토문헌연구회 7월 월례발표회가 다음주 토요일에 있습니다. 
+안녕하세요. 동아시아출토문헌연구회 7월 월례발표회가 금주 토요일에 있습니다. 
 
 온라인으로 진행되며 관심있는 분은 누구든 참석하실 수 있습니다. 
 
