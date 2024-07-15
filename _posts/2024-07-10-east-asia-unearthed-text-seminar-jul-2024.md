@@ -3,7 +3,7 @@ layout: post
 title: "동아시아출토문헌연구회 월례발표회 (7월) &#10092;『戰國文字通論』과 전국문자(戰國文字) 이야기&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/text-warring-states-period.jpg
 ---
 
