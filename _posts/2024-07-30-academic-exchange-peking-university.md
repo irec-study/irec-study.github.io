@@ -3,7 +3,7 @@ layout: post
 title:  "첫번째 해외 교류"
 author: shim-jaehoon
 categories: [ "연구소소식" ] 
-tags: [ notice ] 
+tags: [ notice, sticky ] 
 image: assets/images/post/peking-202407-06.jpg
 ---
 
