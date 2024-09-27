@@ -82,7 +82,7 @@ authors:
       name:     ghim
       name-ko:  "김광림"
       name-en:  "GHIM, Gwang-lim"
-      title:    "고대문명연구소 DB 담당 전문위원<br>네이버클라우드 머신러닝엔지니어"
+      title:    "고대문명연구소 디지털 전문위원<br>네이버클라우드 머신러닝엔지니어"
       title-en: "IREC Special Advisor for DB<br>Machine Learning Engineer, Naver Cloud"
       education:
         - "단국대학교 사학과 (박사 수료)"
@@ -125,7 +125,8 @@ authors:
       name-en:  "HOGUE, David"
       name-cn:  "何德威"
       title:    "단국대학교 한문교육연구소 연구교수"
-      title-cn: "檀國大學 漢文教育研究所 研究教授<br>Research Professor at the Dankook University Institute for Han-Character Education Research"
+      title-cn: "檀國大學 漢文教育研究所 研究教授"
+      title-en: "Research Professor at the Dankook University Institute for Han-Character Education Research"
       education:
         - "미국 시카고대학교 동아시아언어문명학과 (박사)"
         - "중국 남경대학 문학원 (석사)"
@@ -334,7 +335,8 @@ authors:
       name-cn:  "賓東哲"
       name-en:  "BIN, Dongchoel"
       title:    "단국대학교 고대문명연구소 연구교수"
-      title-cn:    "檀國大學 古代文明研究所 硏究敎授<br>Research Fellow of IREC, Dankook University"
+      title-cn:    "檀國大學 古代文明研究所 硏究敎授"
+      title-en: "Research Fellow of IREC, Dankook University"
       education:
         - "미국 인디애나대학 (블루밍턴) 동아시아언어와문화과 (박사)"
         - "고려대학교 철학과 (학사, 석사)"
