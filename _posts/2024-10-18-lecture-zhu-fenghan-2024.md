@@ -2,8 +2,8 @@
 layout: post
 title:  "해외 석학 초청 강연: &#10092;확장, 교류, 기록: 중국 청동 문명의 발전&#10093; (북경대 주펑한 교수)"
 author: shim-jaehoon
-categories: [ "연구소소식" ] 
-tags: [ china, lecture, event, sticky ] 
+categories: [ "연구소소식" ]
+tags: [ china, lecture, event ]
 image: assets/images/post/zhu_fenghan.jpg
 ---
 
