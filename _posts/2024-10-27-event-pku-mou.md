@@ -3,7 +3,7 @@ layout: post
 title:  "북경대 출토문헌과 고대문명연구소 - 단국대 고대문명연구소 MOU 체결"
 author: shim-jaehoon
 categories: [ "연구소소식" ] 
-tags: [ notice, sticky ] 
+tags: [ notice ] 
 image: assets/images/post/pku-mou-04.jpg
 ---
 
