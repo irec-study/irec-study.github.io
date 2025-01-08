@@ -3,7 +3,7 @@ layout: post
 title:  "&#10092;사학지&#10093; 65집 출간 및 공유"
 author: shim-jaehoon
 categories: [ "연구소소식" ] 
-tags: [ notice, sticky ] 
+tags: [ notice ] 
 image: assets/images/post/dkhistory-vol65.jpg
 ---
 
