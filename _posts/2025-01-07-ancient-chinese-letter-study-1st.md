@@ -3,7 +3,7 @@ layout: post
 title:  "&#10092;제1회 고문자와 출토문헌 학교&#10093; (2025년 2월)"
 author: kim-seokjin
 categories: [ "연구소소식" ] 
-tags: [ notice, sticky ] 
+tags: [ notice ] 
 image: assets/images/post/shang-oracle-bone.jpg
 ---
 
