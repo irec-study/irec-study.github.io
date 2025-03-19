@@ -3,7 +3,7 @@ layout: post
 title:  "고대문명연구소에서 두번째 연구총서 출간 &#10092;고대 근동과 중국, 문자와 문헌 전통의 형성&#10093;"
 author: shim-jaehoon
 categories: [ "연구소소식" ]
-tags: [ china, book, published, sticky ]
+tags: [ china, book, published ]
 image: assets/images/post/irec-published-book-2025.jpg
 ---
 
