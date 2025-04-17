@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "마지막 10차시 강의 공개 &#10092;제1회 고문자와 출토문헌 학교&#10093;"
+title:  "공개 강의 &#10092;제1회 고문자와 출토문헌 학교&#10093;"
 author: kim-seokjin
 categories: [ "연구소소식" ] 
 tags: [ notice, sticky ] 
