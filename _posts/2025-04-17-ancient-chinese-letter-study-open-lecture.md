@@ -3,7 +3,7 @@ layout: post
 title:  "공개 강의 &#10092;제1회 고문자와 출토문헌 학교&#10093;"
 author: kim-seokjin
 categories: [ "연구소소식" ] 
-tags: [ notice ] 
+tags: [ notice, sticky ] 
 image: assets/images/post/classic-text-open-lecture.jpg
 ---
 
@@ -47,8 +47,8 @@ image: assets/images/post/classic-text-open-lecture.jpg
 
 <span class="muted"><a href="/assets/files/IREC_ancient_chinese_classic_text_open_lecture_250426.pdf" target="_blank">단국대 고대문명연구소 제1회 '고문자와 출토문헌 학교' 공개강의</a></span>
 <br>
-<object data="/assets/files/ancient-chinese-inscriptions-and-excavated-texts-conf-feb-2025.pdf" width="100%" height="800px" type='application/pdf'>
-    <embed src="/assets/files/ancient-chinese-inscriptions-and-excavated-texts-conf-feb-2025.pdf" width="100%" height="800px" type='application/pdf'/>
+<object data="/assets/files/IREC_ancient_chinese_classic_text_open_lecture_250426.pdf" width="100%" height="800px" type='application/pdf'>
+    <embed src="/assets/files/IREC_ancient_chinese_classic_text_open_lecture_250426.pdf" width="100%" height="800px" type='application/pdf'/>
 </object>
 
 <br>
