@@ -3,7 +3,7 @@ layout: post
 title:  "신간 소개 &#10092;문화적 기억과 초기 문명: 문자, 기억하기, 정치적 상상력&#10093; (얀 아스만)"
 author: shim-jaehoon
 categories: [ "연구소소식" ]
-tags: [ book, published ]
+tags: [ book, published, sticky ]
 image: assets/images/post/jan-assmann-book-2025-cover.jpg
 ---
 
