@@ -3,7 +3,7 @@ layout: post
 title:  "&#10092;흙과 돌, 금속에 쓴 근동과 중국의 초기 텍스트 읽기&#10093; - 고대문명연구소 제4회 학술대회"
 author: shim-jaehoon
 categories: [ "연구소소식" ] 
-tags: [ notice, event, sticky ] 
+tags: [ notice, event ] 
 image: assets/images/post/IREC-conf2025-cover.jpg
 ---
 
