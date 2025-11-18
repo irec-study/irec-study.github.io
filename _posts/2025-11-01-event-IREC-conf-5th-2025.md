@@ -3,7 +3,7 @@ layout: post
 title:  "&#10092;문화적 기억으로 역사 다시 읽기&#10093; - 고대문명연구소 제5회 학술대회"
 author: shim-jaehoon
 categories: [ "연구소소식" ] 
-tags: [ notice, event, sticky ] 
+tags: [ notice, event ] 
 image: assets/images/post/IREC-conf-5th-2025-cover.jpg
 ---
 
