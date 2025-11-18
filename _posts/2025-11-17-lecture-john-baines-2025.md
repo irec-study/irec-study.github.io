@@ -21,6 +21,10 @@ image: assets/images/post/john-baines.jpg
 
 많은 사람이 다음 주 목요일 오후 3시 30분부터 단국대 죽전캠퍼스에서 베인스 교수와 직접 소통하는 기회를 누릴 수 있길 바랍니다.
 
+<span class="text-muted"><small>
+이 글은 심재훈 교수의 페이스북에 게재된 글입니다. <a href="https://www.facebook.com/jaehoon.shim.399/posts/pfbid02E8kYVeAnzup3t3P52AzGatARcuuUUuG8NRath5mPUuVta4HXjAnyRp1ax3KVbHRcl" target="_blank">(원글 바로가기)</a>
+</small></span>
+
 
 <br>
 ![](/assets/images/post/IREC_2025_lecture_John_Baines.jpg)
