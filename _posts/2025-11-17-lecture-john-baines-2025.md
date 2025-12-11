@@ -3,7 +3,7 @@ layout: post
 title:  "해외 석학 초청 강연: &#10092;초기 이집트 사회에서 문자의 역할&#10093; (존 베인스 / 옥스퍼드대 명예교수)"
 author: shim-jaehoon
 categories: [ "연구소소식" ]
-tags: [ egypt, lecture, event, sticky ]
+tags: [ egypt, lecture, event ]
 image: assets/images/post/john-baines.jpg
 ---
 
