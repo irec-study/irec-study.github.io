@@ -3,7 +3,7 @@ layout: post
 title:  "&#10092;제3회 고문자와 출토문헌 학교&#10093; (2026년 1월)"
 author: kim-seokjin
 categories: [ "연구소소식" ] 
-tags: [ notice ] 
+tags: [ notice, sticky ] 
 image: assets/images/post/middle-chinese-phonology.jpg
 ---
 
