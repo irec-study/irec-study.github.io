@@ -345,6 +345,32 @@ authors:
       avatar: /assets/images/people/sung.jpg
       bio: "문헌자료와 출토자료를 통해 중국고대사상사를 연구하고 있습니다. 특히 선진~진한시대 사이에 이뤄진 경전 형성의 초기 단계에 깊은 관심을 가지고 있습니다."
 
+    soh-dongsub:
+      group:    "cet"
+      name:     soh
+      name-ko:  "소동섭"
+      name-en:  "SOH, Dongsub"
+      name-cn:  "蘇東燮"
+      title:    "중국 북경대학교 역사학과 박사후보생"
+      title-en: "Ph.D. Candidate in Department of History, Peking University"
+      title-cn: "北京大學 歷史學系 博士硏究生"
+      education:
+        - "중국 북경대학교 역사학과 (박사수료)"
+        - "단국대학교 사학과 (석사)"
+        - "단국대학교 중문과, 사학과 (학사)"
+      education-en:
+        - "Peking University (Ph.D. Candidate, History)"
+        - "Dankook University (M.A., History)"
+        - "Dankook University (B.A., Chinese Language and Literature/History)"
+      education-cn:
+        - "北京大學 歷史學系 先秦史方向（博士在讀）"
+        - "檀國大學 歷史系（碩士）"
+        - "檀國大學 中文系、 歷史系（學士）"
+      interest: ["역사지리학", "중국고고학", "중국문자학", "지리문헌학", "GIS"]
+      avatar: /assets/images/people/soh.jpg
+      bio: "출토자료와 전래자료를 바탕으로 고대 중국의 공간을 연구하고 있습니다. 특히, 선진시기의 지리 정보(지명과 행정구획의 위치 등)를 재구성하여, 고대 중국인들이 공간을 어떻게 이해하고 활용했는지를 구명하는 데 주력하고 있습니다."
+      bio-cn: "本人基於出土資料和傳世資料，研究古代中國的空間。尤其是，致力於重構先秦時期的地理信息（如地名之地望和行政區劃之位置），以研究古代中國人對空間的理解及其運用方式。"
+
     shim-jaehoon:
       name:     shim
       name-ko:  "심재훈"
