@@ -60,13 +60,3 @@ image: assets/images/post/IREC-conf-5th-2025-cover.jpg
 
 * 16:30-17:30  __종합토론 (사회: 심재훈)__
 
-----
-
-<span class="muted"><a href="/assets/files/IREC-5th-conf20251108-proceedings.pdf" target="_blank">고대문명연구소 제5회 학술대회 자료집</a></span>
-<br>
-<object data="/assets/files/IREC-5th-conf20251108-proceedings.pdf" width="100%" height="800px" type='application/pdf'>
-    <embed src="/assets/files/IREC-5th-conf20251108-proceedings.pdf" width="100%" height="800px" type='application/pdf'/>
-</object>
-
-<br><br>
-
