@@ -3,7 +3,7 @@ layout: post
 title:  "제1회 한중 고문자와 출토문헌 학술포럼"
 author: shim-jaehoon
 categories: [ "연구소소식" ]
-tags: [ event, sticky ]
+tags: [ event ]
 image: assets/images/post/anhui-ancient-doc-forum-2026-top.jpg
 ---
 
