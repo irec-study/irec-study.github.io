@@ -3,7 +3,7 @@ layout: post
 title: "동아시아출토문헌연구회 정기발표회 (2026년 7월) &#10092;전한시대 『논어』의 정치적 활용&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/analects-page.jpg
 ---
 
