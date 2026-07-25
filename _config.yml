@@ -175,13 +175,13 @@ authors:
       name:     yhkim
       name-ko:  "김용하"
       name-en:  "KIM, Yong-ha"
-      title:    "미국 컬럼비아대학교 동아시아 언어문화학과 박사 후보생"
-      title-en: "Ph.D. Candidate in East Asian Languages and Cultures, Columbia University"
+      title:    "미국 컬럼비아대학교 동아시아 언어문화학과 박사"
+      title-en: "Ph.D. East Asian Languages and Cultures, Columbia University"
       education:
-        - "미국 컬럼비아대학교 동아시아 언어문화학과 (박사 수료)"
+        - "미국 컬럼비아대학교 동아시아 언어문화학과 (박사)"
         - "고려대학교 사학과 (석사, 학사)"
       education-en:
-        - "Columbia University (Ph.D. Candidate, East Asian Languages and Cultures)"
+        - "Columbia University (Ph.D., East Asian Languages and Cultures)"
         - "Columbia University (M.Phil., East Asian Languages and Cultures)"
         - "Korea University (M.A./B.A., History)"
       interest: ["중국 고대사", "세계제국사", "고고학", "Early China", "Ancient Empires", "Archaeology", "Excavated Texts"]
