@@ -3,7 +3,7 @@ layout: post
 title:  "&#10092;제4회 고문자와 출토문헌 학교&#10093; (2026년 8월)"
 author: kim-seokjin
 categories: [ "연구소소식" ] 
-tags: [ notice, sticky ] 
+tags: [ notice, event ] 
 image: assets/images/post/unearthed-texts-book.jpg
 ---
 
