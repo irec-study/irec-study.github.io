@@ -3,7 +3,7 @@ layout: post
 title: "동아시아출토문헌연구회 정기발표회 (2026년 9월) &#10092;전래 문헌의 공백, 출토 자료의 발견 ― 동천(東遷) 정치체 언(匽)의 추이&#10093;"
 author: ghim-gwanglim
 categories: [ Forum ]
-tags: [ China, Forum, sticky ]
+tags: [ China, Forum ]
 image: assets/images/post/taibao-yan-zhong-ding.jpg
 ---
 
