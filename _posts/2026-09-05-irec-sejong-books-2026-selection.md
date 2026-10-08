@@ -3,7 +3,7 @@ layout: post
 title:  "2026년 세종도서 2권 선정"
 author: shim-jaehoon
 categories: [ "연구소소식" ]
-tags: [ book, published, sticky ]
+tags: [ book, published ]
 image: assets/images/post/booksejong2026-irec.jpg
 ---
 
