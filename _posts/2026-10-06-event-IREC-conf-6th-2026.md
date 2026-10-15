@@ -98,3 +98,18 @@ image: assets/images/post/IREC-conf-6th-2026-cover.jpg
 
 * 16:50-17:20  토론: __빈동철 (단국대),  이승율 (경북대),  송진 (공주대)__
 * 17:20-18:00  종합논평
+
+----
+
+아래에서 자료집을 다운로드 받을 수 있습니다.
+
+<br>
+
+
+<span class="muted"><a href="/assets/files/IREC-conf2026-proceedings.pdf" target="_blank">고대 근동과 중국 문헌의 확산과 변이 - 고대문명연구소 제6회 학술대회 자료집</a></span>
+<br>
+<object data="/assets/files/IREC-conf2026-proceedings.pdf" width="100%" height="800px" type='application/pdf'>
+    <embed src="/assets/files/IREC-conf2026-proceedings.pdf" width="100%" height="800px" type='application/pdf'/>
+</object>
+
+<br><br>
