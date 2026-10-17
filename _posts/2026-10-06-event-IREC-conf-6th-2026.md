@@ -3,7 +3,7 @@ layout: post
 title:  "&#10092;고대 근동과 중국 문헌의 확산과 변이&#10093; - 고대문명연구소 제6회 학술대회"
 author: shim-jaehoon
 categories: [ "연구소소식" ] 
-tags: [ notice, event, sticky ] 
+tags: [ notice, event ] 
 image: assets/images/post/IREC-conf-6th-2026-cover.jpg
 ---
 

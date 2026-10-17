@@ -3,7 +3,7 @@ layout: post
 title:  "해외 석학 초청 강연: &#10092;제국을 조직하다: 아시리아의 방식&#10093; (카렌 라트너 / 뮌헨대학 훔볼트 석좌교수)"
 author: shim-jaehoon
 categories: [ "연구소소식" ]
-tags: [ mesopotamia, lecture, event, sticky ]
+tags: [ mesopotamia, lecture, event ]
 image: assets/images/post/karen-radner.jpg
 ---
 
