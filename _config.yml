@@ -4,6 +4,7 @@ description: 'The Institute for Research on Early Civilizations (IREC)'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/icon'
 baseurl: ''
+url: 'https://irec.study'
 #disqus: 'demowebsite'
 email: 'irec.study@gmail.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -16,7 +17,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
-#  - jekyll-seo-tag
+  - jekyll-seo-tag
   
 sections:
     1:
