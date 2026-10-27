@@ -523,8 +523,8 @@ authors:
       name-ko:  "데이비드 호그"
       name-en:  "HOGUE, David"
       name-cn:  "何德威"
-      title:    "단국대학교 한문교육연구소 연구교수"
-      title-cn: "檀國大學 漢文教育研究所 研究教授"
+      title:    "단국대학교 고대문명연구소 연구교수"
+      title-cn: "檀國大學 古代文明研究所 硏究敎授"
       title-en: "Research Professor at the Dankook University Institute for Han-Character Education Research"
       education:
         - "미국 시카고대학교 동아시아언어문명학과 (박사)"
@@ -532,10 +532,10 @@ authors:
         - "미국 프린스턴대학교 영문학과 (학사)"
       education-cn:
         - "美國 芝加哥大學 東亞語言與文明學 (博士) University of Chicago East Asian Languages and Civilizations (Ph.D.)"
-        - "中國 南京大學 文學院 (碩士) Nanjing University Literature School (M.A.)"
+        - "中國 南京大學 文學院 (碩士) Nanjing University School of Liberal Arts (M.A.)"
         - "美國 普林斯頓 英美文學 (學士) Princeton University Department of English (B.A.)"
       interest: [""]
-      avatar: /assets/images/people/hogue.jpg
+      avatar: /assets/images/people/hogue2.jpg
       bio: "專攻於中國傳世文獻與出土文獻,尤其專注於戰國時期以及秦漢時期,主要研究方向為歷史編纂學、敘事文獻和思想史.<br>I specialize in early Chinese transmitted and excavated textual sources, with a particular focus on the Warring States and Qin-Han periods. My main areas of research are historiography, narrative texts, and intellectual history.<br>고대 중국의 전래 · 출토 문헌을 전공했고 전국(戰國) 시대 및 진한(秦漢) 시대를 중심으로 연구하고 있습니다. 주요 연구 방향은 역사 편찬학, 서사 문학과 사상의 역사입니다."
 
 # 해외자문위원회 Overseas Advisory Committee
