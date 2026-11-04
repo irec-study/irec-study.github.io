@@ -3,7 +3,7 @@ layout: post
 title:  "특별초청강연: &#10092;중앙 아나톨리아 최초의 국제 교역 중심: 퀼테페-카네시&#10093;"
 author: shim-jaehoon
 categories: [ "연구소소식" ]
-tags: [ mesopotamia, lecture, event, sticky ]
+tags: [ mesopotamia, lecture, event ]
 image: assets/images/post/fikri-kulakoglu.jpg
 ---
 
